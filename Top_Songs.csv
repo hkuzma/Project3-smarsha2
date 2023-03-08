@@ -20,7 +20,7 @@ Index,SongName,Artist,Genre,ID,Length,Explicit,PercentRating
 19,(Do The New) Continental,The Dovells,"['brill building pop', 'doo-wop', 'rhythm and blues']",1bZnNyr6uaY7XbxZfO1JYs,157333,FALSE,16
 20,(Do You) Wanna Ride,Reel Tight,"[]",7mtYwHLYETUEgA8Sc2Uuxr,213213,FALSE,7
 21,(Don't Fear) The Reaper,Blue Oyster Cult,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'psychedelic rock', 'rock', 'soft rock']",5QTxFnGygVM4jFQiBovmRo,308120,FALSE,77
-22,(Don't Worry) If There's A Hell Below We're All Going To Go,Curtis Mayfield,"['chicago soul', 'classic soul', 'disco', 'funk', 'soul']",5RlUTWYlTeE1JiyudvnlAU,470506,FALSE,15
+22,(Don't Worry) If There's A He11 Below We're All Going To Go,Curtis Mayfield,"['chicago soul', 'classic soul', 'disco', 'funk', 'soul']",5RlUTWYlTeE1JiyudvnlAU,470506,FALSE,15
 23,(everybody Wanna Get Rich) Rite Away,Dr. John,"['blues', 'blues rock', 'classic rock', 'electric blues', 'folk rock', 'funk', 'jazz blues', 'louisiana blues', 'new orleans blues', 'piano blues', 'psychedelic rock', 'roots rock', 'soul']",2a0fkN8dbA5Kh8SR7cvl3D,163933,FALSE,54
 24,(Everything I Do) I Do It For You,Bryan Adams,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",6eBK3edMW7bEzecF1eCezc,394133,FALSE,65
 25,(For God's Sake) Give More Power To The People,The Chi-lites,"['chicago soul', 'classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",0dVabf3Sm1uHODq1vz2Lts,180133,FALSE,29
@@ -101,7 +101,7 @@ Index,SongName,Artist,Genre,ID,Length,Explicit,PercentRating
 100,(Shake Shake Shake) Shake Your Booty,KC And The Sunshine Band,"['disco', 'funk', 'motown', 'soft rock']",3Is0Nnz59rzbNZE491URlY,186906,FALSE,53
 101,(She's Got) Skillz,All-4-One,"['boy band', 'dance pop', 'new jack swing', 'r&b', 'urban contemporary']",4tlryZypTlbIaa7YrgxCSN,245066,FALSE,34
 102,(She's Just A) Fallen Angel,Starz,"[]",12SwPuYZXZ0dKHzSwN9ybg,212813,FALSE,9
-103,(she's) Sexy + 17,Stray Cats,"['instrumental surf', 'rock-and-roll', 'rockabilly']",5x5FUXjs53WbPuTwT6WD8d,194066,FALSE,42
+103,(she's) pretty + 17,Stray Cats,"['instrumental surf', 'rock-and-roll', 'rockabilly']",5x5FUXjs53WbPuTwT6WD8d,194066,FALSE,42
 104,(Sittin' On) The Dock Of The Bay,King Curtis & The Kingpins,"['jazz blues', 'jazz saxophone', 'soul', 'soul jazz']",4RJZSPNQcA7PG8AtNTm4fG,161573,FALSE,6
 105,(Sittin' On) The Dock Of The Bay,Michael Bolton,"['adult standards', 'soft rock']",0tvKT0EdO4Gm1nw7rgiHHa,231240,FALSE,39
 106,(Sittin' On) The Dock Of The Bay,Otis Redding,"['classic soul', 'funk', 'memphis soul', 'soul', 'soul blues', 'southern soul']",3zBhihYUHBmGd2bcQIobrF,163755,FALSE,73
@@ -672,7 +672,7 @@ Index,SongName,Artist,Genre,ID,Length,Explicit,PercentRating
 671,"Ain't It Baby",The Miracles,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",14WPjMgMJfsxSaz3dm9KwQ,155240,FALSE,7
 672,Ain't I,Yung L.A. Featuring Young Dro & T.I.,"['atl hip hop', 'dirty south rap', 'southern hip hop', 'trap']",6cnufgF6qLJGZT2PRFZBr1,252093,TRUE,49
 673,Ain't Leavin Without You,Jaheim,"['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",7nkIQ02m4KItFfDfWrEApi,200613,FALSE,43
-674,Ain't Love A Bitch,Rod Stewart,"['adult standards', 'mellow gold', 'soft rock']",12myqPkW3bmux5bPISk9GC,279706,FALSE,28
+674,Ain't Love A Witch,Rod Stewart,"['adult standards', 'mellow gold', 'soft rock']",12myqPkW3bmux5bPISk9GC,279706,FALSE,28
 675,Ain't My Fault,Zara Larsson,"['dance pop', 'edm', 'pop', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']",0ADG9OgdVTL7fgREP75BrZ,224030,FALSE,71
 676,Ain't No Love In The Heart Of The City,Bobby Bland,"['blues', 'electric blues', 'soul', 'soul blues', 'southern soul']",4qYHnP5AmKzXbJhciPV8si,233560,FALSE,59
 677,Ain't No Mountain High Enough,Diana Ross,"['adult standards', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",1KbuhBnzMHp4eq1q6flhWd,215200,FALSE,61
@@ -711,7 +711,7 @@ Index,SongName,Artist,Genre,ID,Length,Explicit,PercentRating
 710,Ain't That Loving You (For More Reasons Than One),Isaac Hayes & David Porter,"['classic soul', 'disco', 'funk', 'jazz funk', 'memphis soul', 'motown', 'quiet storm', 'soul', 'southern soul']",18zKxJIMjdfHjAXMdTXdNJ,261880,FALSE,11
 711,Ain't That Loving You (For More Reasons Than One),Luther Ingram,"['classic soul', 'memphis soul', 'southern soul']",49IQpipnAdKebfTwJRJrtM,250973,FALSE,19
 712,Ain't That Loving You Baby,Elvis Presley,"['adult standards', 'rock-and-roll', 'rockabilly']",1puwYWRSG7g0d8ChPmOV6t,143013,FALSE,27
-713,Ain't That Peculiar,Fanny,"['colombian pop', 'cumbia', 'ecuadorian pop', 'latin', 'latin pop', 'latin viral pop', 'pop reggaeton', 'tropical']",4RAS6QT974bl5blsapzVGq,245800,FALSE,32
+713,Ain't That Peculiar,Funny,"['colombian pop', 'cumbia', 'ecuadorian pop', 'latin', 'latin pop', 'latin viral pop', 'pop reggaeton', 'tropical']",4RAS6QT974bl5blsapzVGq,245800,FALSE,32
 714,Ain't That Peculiar,Marvin Gaye,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm', 'soul']",1yyJNEU2gWG6QiJkhPwrde,179693,FALSE,47
 715,Ain't Too Proud To Beg,Rick Astley,"['dance pop', 'dance rock', 'europop', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",1j0q1Ljv4gdFYiwtw3vGPU,258133,FALSE,30
 716,Ain't Too Proud To Beg,The Rolling Stones,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",657o30OsXhfnfi3IoWHprm,210560,FALSE,38
@@ -904,8 +904,8 @@ Index,SongName,Artist,Genre,ID,Length,Explicit,PercentRating
 903,All That Matters,Justin Bieber,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",70XP39KE8vTgxtRXcwfxJA,191173,FALSE,60
 904,All That She Wants,Ace Of Base,"['bubblegum dance', 'dance pop', 'eurodance', 'europop', 'hip house', 'pop rock']",6kWJvPfC4DgUpRsXKNa9z9,211213,FALSE,72
 905,All The Above,Maino Featuring T-Pain,"['pop rap', 'rap', 'trap']",1z667LebVh3DtYNrVJEao0,319940,TRUE,62
-906,All The Good Girls Go To Hell,Billie Eilish,"['electropop', 'pop']",6IRdLKIyS4p7XNiP8r6rsx,168839,FALSE,86
-907,All The Good Girls Go To Hell,Billie Eilish,"['electropop', 'pop']",6IRdLKIyS4p7XNiP8r6rsx,168839,FALSE,87
+906,All The Good Girls Go To He11,Billie Eilish,"['electropop', 'pop']",6IRdLKIyS4p7XNiP8r6rsx,168839,FALSE,86
+907,All The Good Girls Go To He11,Billie Eilish,"['electropop', 'pop']",6IRdLKIyS4p7XNiP8r6rsx,168839,FALSE,87
 908,All The Kids On The Street,The Hollywood Stars,"[]",1EeuFwQ7RhTNlPg69LGUxM,192400,FALSE,2
 909,All The Kings Horses,Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",4scnR2BdymYpgLzM9vH6Ra,236000,FALSE,26
 910,All The Kings Horses,The Firm,"['novelty']",1W9DHhVwvAjXxuBKIegw0L,198466,FALSE,24

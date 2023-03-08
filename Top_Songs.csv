@@ -1,0 +1,1030 @@
+Index,SongName,Artist,Genre,ID,Length,Explicit,PercentRating
+1,......And Roses And Roses,Andy Williams,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold']",3tvqPPpXyIgKrm4PR9HCf0,166106,FALSE,38
+2,...And Then There Were Drums,Sandy Nelson,"['rock-and-roll', 'space age pop', 'surf music']",1fHHq3qHU8wpRKHzhojZ4a,172066,FALSE,11
+3,...Baby One More Time,Britney Spears,"['dance pop', 'pop', 'post-teen pop']",3MjUtNVVq3C8Fn0MP3zhXa,211066,FALSE,77
+4,...Ready For It?,Taylor Swift,"['pop', 'post-teen pop']",2yLa0QULdQr0qAIvVwN6B5,208186,FALSE,73
+5,"B"" Girls",Young And Restless,"[]",0rWUHulFlScxQsCq7kWKde,242106,FALSE,20
+6,"Cherry Cherry"" from Hot August Night",Neil Diamond,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",18ocy9Be9SxWEEnOLGDfkS,443320,FALSE,16
+7,('til) I Kissed You,The Everly Brothers,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge', 'mellow gold', 'rock-and-roll', 'rockabilly', 'sunshine pop']",2erTdgDOZmjJNaNhjhWXhJ,146066,FALSE,53
+8,(All Of A Sudden) My Heart Sings,Mel Carter,"[]",6x5BiQwNlbtisITsEHa8Eu,164066,FALSE,17
+9,(All of a Sudden) My Heart Sings,Paul Anka,"['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge', 'rock-and-roll']",5Eeq19q3Ft77GpSENEZL2I,184200,FALSE,21
+10,(Any Way That You Want It) I'll Be There,Starz,"[]",3nxrdgbdv33HEUeZUayRuN,204760,FALSE,2
+11,(Baby) Hully Gully,The Olympics,"['doo-wop', 'rhythm and blues']",6UO3m5VERw0IOI0fCXwcvJ,127829,FALSE,5
+12,(Between A) Rock And A Hard Place,Cutting Crew,"['album rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",2KxYID9maMVJaGnvGu6Iso,227960,FALSE,19
+13,(Bringing Out) The Girl In Me,Maxine Nightingale,"['classic uk pop']",5fuRsSCGDlOImVIJktdyoV,210973,FALSE,6
+14,(Call Me Your) Anything Man,Bobby Moore,"['classic soul']",0O38BS1klXTO7qRKeEsUK4,374491,FALSE,4
+15,(Can't Live Without Your) Love And Affection,Nelson,"['classic country pop', 'country', 'nashville sound', 'outlaw country', 'singer-songwriter', 'texas country']",3JjY2L2bqql54j1SjnjQ23,236435,FALSE,47
+16,(Closest Thing To) Perfect,Jermaine Jackson,"['disco', 'funk', 'post-disco', 'quiet storm', 'urban contemporary']",7pM34Bmj0JY3YNkDOlrcrh,230693,FALSE,8
+17,(Come 'round Here) I'm The One You Need,The Miracles,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",5YvokzRkNONpj5c0TIqTjQ,150066,FALSE,26
+18,(Dance The) Mess Around,Chubby Checker,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'rock-and-roll', 'rockabilly']",1AYJ3jYK65l6wRRk6vJzHM,141666,FALSE,13
+19,(Do The New) Continental,The Dovells,"['brill building pop', 'doo-wop', 'rhythm and blues']",1bZnNyr6uaY7XbxZfO1JYs,157333,FALSE,16
+20,(Do You) Wanna Ride,Reel Tight,"[]",7mtYwHLYETUEgA8Sc2Uuxr,213213,FALSE,7
+21,(Don't Fear) The Reaper,Blue Oyster Cult,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'psychedelic rock', 'rock', 'soft rock']",5QTxFnGygVM4jFQiBovmRo,308120,FALSE,77
+22,(Don't Worry) If There's A Hell Below We're All Going To Go,Curtis Mayfield,"['chicago soul', 'classic soul', 'disco', 'funk', 'soul']",5RlUTWYlTeE1JiyudvnlAU,470506,FALSE,15
+23,(everybody Wanna Get Rich) Rite Away,Dr. John,"['blues', 'blues rock', 'classic rock', 'electric blues', 'folk rock', 'funk', 'jazz blues', 'louisiana blues', 'new orleans blues', 'piano blues', 'psychedelic rock', 'roots rock', 'soul']",2a0fkN8dbA5Kh8SR7cvl3D,163933,FALSE,54
+24,(Everything I Do) I Do It For You,Bryan Adams,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",6eBK3edMW7bEzecF1eCezc,394133,FALSE,65
+25,(For God's Sake) Give More Power To The People,The Chi-lites,"['chicago soul', 'classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",0dVabf3Sm1uHODq1vz2Lts,180133,FALSE,29
+26,(Forever) Live And Die,Orchestral Manoeuvres In The Dark,"['art rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'synthpop']",7pFydJbDEToJHtvl6g579k,218133,FALSE,48
+27,(Ghost) Riders In The Sky,Outlaws,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'southern rock']",4ncVYIs3UFvitjvc8RIPkM,351400,FALSE,47
+28,(Ghost) Riders In The Sky,Ramrods,"['classic garage rock']",5eUVr9Ja4GK6e1lcIXjML7,156933,FALSE,24
+29,"(Girls, Girls, Girls) Made To Love",Eddie Hodges,"[]",4PeZdZt3Mf46SfsL6Gj1EY,150666,FALSE,16
+30,(He's My) Dreamboat,Connie Francis,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly']",3OvzW4ex4PCAkr25M85WCP,162106,FALSE,28
+31,(He's) Raining In My Sunshine,Jay & The Americans,"['east coast hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",120BvxQsMS1M41PdBClcxa,195733,FALSE,10
+32,(He's) The Great Impostor,The Fleetwoods,"['adult standards', 'brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'vocal harmony group']",2NBfPm9rWk2nYVDengT80Z,132101,FALSE,15
+33,(Here They Come) From All Over The World,Jan & Dean,"['christmas instrumental']",5TrvERHRtiRshORTehfs0w,164600,FALSE,15
+34,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic country pop', 'country rock', 'folk', 'folk rock', 'mellow gold', 'soft rock']",0b7qiL1rLbUUpGXczt7p5T,206066,FALSE,40
+35,(How To Be A) Millionaire,ABC,"[]",3zC02nmo5OrDDMW3U905AU,215733,FALSE,29
+36,(I Can Feel Those Vibrations) This Love Is Real,Jackie Wilson,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'motown', 'quiet storm', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",2QM3bCcmAwiuwDvhIispV8,175146,FALSE,26
+37,(I Can Feel Your Love) Slipping Away,Barbara Mason,"['classic soul', 'funk', 'motown', 'philly soul', 'quiet storm', 'southern soul']",37kJMIJyTv96Tns8QgsOJn,199626,FALSE,16
+38,(I Can't Get No) Satisfaction,The Rolling Stones,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",2PzU4IB8Dr6mxV3lHuaG34,222813,FALSE,78
+39,(I Can't Help You) I'm Falling Too,Skeeter Davis,"['brill building pop', 'nashville sound']",5MXe6dKcR6iO33GWzVW8cr,165266,FALSE,23
+40,(I Could Only) Whisper Your Name,Harry Connick Jr.,"['adult standards', 'contemporary vocal jazz', 'lounge', 'vocal jazz']",68EKUNtzGVapUS30PJDVKs,289970,FALSE,34
+41,(I Cried at) Laura's Wedding,Barbara Lynn,"['classic soul', 'motown', 'rhythm and blues', 'soul', 'southern soul']",1kWnbqS0pNBX9UNFIdBoXw,158213,FALSE,2
+42,(I Do The) Shimmy Shimmy,Bobby Freeman,"['doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",2FQcPtw6VJ8t2D8YC6OiCC,157466,FALSE,3
+43,(I Don't Care) Only Love Me,Steve Lawrence,"['adult standards', 'brill building pop', 'deep adult standards', 'easy listening', 'lounge', 'vocal jazz']",2tve82MQkxXX1WsdxpI4sk,153600,FALSE,13
+44,(I Hate) Everything About You,Three Days Grace,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge']",6rUp7v3l8yC4TKxAAR5Bmx,231480,FALSE,74
+45,(I Just) Died In Your Arms,Cutting Crew,"['album rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",0YPXkQthLWrhNGoKTbwCJ8,278626,FALSE,70
+46,(I Know I Got) Skillz,Shaquille O'Neal,"['new jersey rap']",0TEQ2QmFXnHCgQvYuvsbp2,263053,FALSE,33
+47,(I Know) I'm Losing You,Rare Earth,"['blues rock', 'classic rock', 'motown']",18bZGZU0wZ2lV1SEDoXqqr,215986,FALSE,32
+48,(I Know) I'm Losing You,The Temptations,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown', 'soul']",6y8o4V2R2dSt2ijgL8C72W,149493,FALSE,44
+49,(I Never Promised You A) Rose Garden,Martina McBride,"['contemporary country', 'country', 'country dawn', 'country road']",6goA1BGYQSSricr7oV8r8m,195573,FALSE,30
+50,(I Remember) Summer Morning,Vanity Fare,"['bubblegum pop', 'classic uk pop', 'merseybeat']",5iDkKAJZxGaqIo4Z32ZbjD,178418,FALSE,3
+51,(I Wanna) Dance With The Teacher,The Olympics,"['doo-wop', 'rhythm and blues']",3rHQ8LI3Rrw2hy7H4FtbFw,107317,FALSE,1
+52,(I Wanna) Love My Life Away,Gene Pitney,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk rock', 'merseybeat', 'rock-and-roll']",1fNR9tY52D1V79V5eNqxxx,114906,FALSE,26
+53,(I Wanna) Testify,The Parliaments,"[]",0xAqhyWvTkfcdFgm7dozMO,183693,FALSE,16
+54,(I was) Born To Cry,Dion,"['canadian pop', 'dance pop']",5P6O4yi0sZ4JUOJAlmZvxM,147560,FALSE,28
+55,(I'll Be With You In) Apple Blossom Time,Tab Hunter,"['deep adult standards']",7p4NwdRBX4tbBaQBRZXnTM,130759,FALSE,8
+56,(I'm A) Road Runner,Jr. Walker & The All Stars,"['outlaw country', 'redneck']",5llZqDjRHnn5pAUswFqQCf,165946,FALSE,48
+57,(I'm Just A) Fool For You,Gene Chandler,"['brill building pop', 'chicago soul', 'classic soul', 'doo-wop', 'motown', 'northern soul', 'rhythm and blues', 'soul', 'southern soul']",0FESeUvkf85Xj65Yv08Ovf,160853,FALSE,8
+58,(I'm Not Your) Steppin' Stone,The Monkees,"['brill building pop', 'bubblegum pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'rock-and-roll', 'soft rock', 'sunshine pop']",7dvtNWoHd3ioEBmIl0s3In,146533,FALSE,45
+59,(I'm So) Afraid Of Losing You Again,Charley Pride,"['classic country pop', 'country', 'country rock', 'nashville sound']",5drsRsgpbfvKGlhMcb5hKt,173320,FALSE,30
+60,(i've Been) Searchin' So Long,Chicago,"['adult standards', 'album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",3z9pBucv2HHp1gYaTcQwiI,268426,FALSE,41
+61,(I've Got) Bonnie,Bobby Rydell,"['adult standards', 'brill building pop', 'bubblegum pop', 'deep adult standards', 'doo-wop', 'merseybeat', 'rock-and-roll', 'rockabilly']",5XbZjYB4z9OIJhutiDJeSV,147000,FALSE,10
+62,(I've Got) Spring Fever,Little Willie John,"['rhythm and blues', 'rock-and-roll', 'soul', 'southern soul']",2QgRceE7yUSn82yLDAA3ZS,131533,FALSE,2
+63,(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,"['soft rock']",4BFMQ15vXr626UOoZL8bUI,289066,FALSE,70
+64,(I've Had) The Time Of My Life,Glee Cast,"['glee club', 'hollywood', 'post-teen pop']",1wYDz3NuqlGxPnQDX8OuV6,277560,FALSE,49
+65,(If Loving You Is Wrong) I Don't Want To Be Right,Barbara Mandrell,"['classic country pop', 'country', 'country gospel', 'country rock']",1cxjGdsHJn2vo17AbWLFzu,185013,FALSE,35
+66,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,"['classic soul', 'memphis soul', 'southern soul']",54K7o2yNOMZYCtEDnfD6wI,216800,FALSE,48
+67,(If There Was) Any Other Way,Celine Dion,"['canadian pop', 'dance pop']",5yh5RqpOXYN3iiJe07mNNf,240093,FALSE,28
+68,(if You Add) All The Love In The World,Mac Davis,"['bubblegum pop', 'country rock']",1P7yXlWH1VjAlu8x1cawmb,213106,FALSE,5
+69,"(If You Cry) True Love, True Love",The Drifters,"['adult standards', 'brill building pop', 'bubblegum pop', 'lounge', 'mellow gold', 'motown', 'rock-and-roll', 'rockabilly', 'soul']",2mfo3AK0aZzTGcXD0LnLqx,141426,FALSE,16
+70,(If You Let Me Make Love To You Then) Why Can't I Touch You?,Ronnie Dyson,"['classic soul']",5QQOXL6qvhobRG7zfjQCXW,203746,FALSE,20
+71,(If You Want It) Do It Yourself,Gloria Gaynor,"['disco']",0ACUDVTtBKgPLo1R9Mj43L,170866,FALSE,11
+72,(If You're Wondering If I Want You To) I Want You To,Weezer,"['alternative rock', 'modern rock', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",09aDV0TC2RfWFU5IwZfIdG,208773,FALSE,51
+73,(It Never Happens) In Real Life,Chuck Jackson,"['classic soul', 'motown', 'northern soul', 'rhythm and blues', 'southern soul']",4qpH2D4VQfOCdV7zYkt8Hr,165440,FALSE,5
+74,(It's No) Sin,The Duprees featuring Joey Vann,"['brill building pop', 'doo-wop', 'rhythm and blues']",2iuFmbFY7FfPJtEeHmyKOE,162533,FALSE,11
+75,(It's The Way) Nature Planned It,Four Tops,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",77ofWAzg1VoiK0mek1pYC0,227386,FALSE,32
+76,(It) Feels So Good,Steven Tyler,"['modern country rock']",3xuzbqmCALn6Ua8JeOrnZl,211293,FALSE,33
+77,(Just Like) Romeo & Juliet,The Reflections,"[]",7iSG8g8HVyGz8pgMD5cG6B,127893,FALSE,28
+78,(Just Like) Romeo And Juliet,Sha Na Na,"['hollywood']",3UDSfh7CyfmbZ2TbmafkHV,136240,FALSE,11
+79,(Just Like) Starting Over,John Lennon,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock']",5y0YreEOnQiKFAnCrcFIXz,236546,FALSE,57
+80,(Keep Feeling) Fascination,The Human League,"['art rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'synthpop']",0ZfZaT7NByalxa6bct5G67,224733,FALSE,45
+81,(Kissed You) Good Night,Gloriana,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",0Rj68IX1WqAtceUZQGk7aa,232903,FALSE,51
+82,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk', 'folk rock', 'lounge', 'mellow gold', 'motown', 'soft rock', 'sunshine pop']",6HH6fmHF2YssfVkRmzcjf0,192600,FALSE,38
+83,(Lay Your Head On My) Pillow,Tony Toni Tone,"['dance pop', 'funk', 'hip pop', 'motown', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",0rRGYJSkI7v2VtxJv8n90m,372026,FALSE,52
+84,(Loneliness Made Me Realize) It's You That I Need,The Temptations,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown', 'soul']",4SuPDwNadgf6fdw8v3FW5x,158733,FALSE,20
+85,(Love Is Like A) Baseball Game,The Intruders,"['classic soul', 'disco', 'funk', 'motown', 'philly soul', 'quiet storm', 'soul', 'southern soul']",4Lg5z4lC7u1GPSeYvHPPi6,165920,FALSE,25
+86,(Love Is) Thicker Than Water,Andy Gibb,"['adult standards', 'bubblegum pop', 'country rock', 'disco', 'mellow gold', 'soft rock']",5WdF8jm3hBNi1t9qlqdjsE,255960,FALSE,45
+87,(Love Me) Love The Life I Lead,The Fantastics,"[]",7pgKdLyCfjnrBLXJfbFLzg,186521,FALSE,0
+88,(Marie's The Name) His Latest Flame,Elvis Presley,"['adult standards', 'rock-and-roll', 'rockabilly']",4qbLOU1T7xgTH87eUSkvJ1,127093,FALSE,56
+89,(New In) The Ways Of Love,Tommy Edwards,"['deep adult standards', 'doo-wop']",4pNXt2MMFvTSBOkOPWjD8r,159640,FALSE,9
+90,(Now You See Me) Now You Don't,Lee Ann Womack,"['contemporary country', 'country', 'country dawn', 'country road']",2i4tmbKkAhRnnojsmnPof1,159600,FALSE,22
+91,(Oh Lord Won't You Buy Me A) Mercedes Benz,Goose Creek Symphony,"['cosmic american']",2uHWLH7bnYPlWSWe6AfHiO,196333,FALSE,25
+92,(oh) Pretty Woman,Van Halen,"['album rock', 'classic rock', 'hard rock', 'metal', 'rock']",7ptv3yXdBWwzO7rVA62rwy,172670,FALSE,53
+93,(Open Up The Door) Let The Good Times In,Dean Martin,"['adult standards', 'easy listening', 'lounge']",6AwCMQu47EyMU2IbzhkjlL,198600,FALSE,34
+94,(Our Love) Don't Throw It All Away,Andy Gibb,"['adult standards', 'bubblegum pop', 'country rock', 'disco', 'mellow gold', 'soft rock']",1RsxUuB1Q5OdseLpHMBkEN,250200,FALSE,48
+95,(Pride) In The Name Of Love,U2,"['irish rock', 'permanent wave', 'rock']",3dh2LlmeMqKJbzn2WUgt3d,228426,FALSE,60
+96,(Reach Up For The) Sunrise,Duran Duran,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",1UiRhN1y1ML67E7oTjKtlZ,334586,FALSE,25
+97,(Remember Me) I'm The One Who Loves You,Dean Martin,"['adult standards', 'easy listening', 'lounge']",7Jm0gQhWuBMzp0TI4ydm3D,145320,FALSE,36
+98,(Remember The Days Of The) Old Schoolyard,Cat Stevens,"['british folk', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",2EMAivXu3DdUtYgWMTCR0e,164826,FALSE,42
+99,(Say) You're My Girl,Roy Orbison,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'rock', 'rock-and-roll', 'rockabilly', 'soft rock']",6qJSIEaUw2VDYRzzHcKjqm,165426,FALSE,12
+100,(Shake Shake Shake) Shake Your Booty,KC And The Sunshine Band,"['disco', 'funk', 'motown', 'soft rock']",3Is0Nnz59rzbNZE491URlY,186906,FALSE,53
+101,(She's Got) Skillz,All-4-One,"['boy band', 'dance pop', 'new jack swing', 'r&b', 'urban contemporary']",4tlryZypTlbIaa7YrgxCSN,245066,FALSE,34
+102,(She's Just A) Fallen Angel,Starz,"[]",12SwPuYZXZ0dKHzSwN9ybg,212813,FALSE,9
+103,(she's) Sexy + 17,Stray Cats,"['instrumental surf', 'rock-and-roll', 'rockabilly']",5x5FUXjs53WbPuTwT6WD8d,194066,FALSE,42
+104,(Sittin' On) The Dock Of The Bay,King Curtis & The Kingpins,"['jazz blues', 'jazz saxophone', 'soul', 'soul jazz']",4RJZSPNQcA7PG8AtNTm4fG,161573,FALSE,6
+105,(Sittin' On) The Dock Of The Bay,Michael Bolton,"['adult standards', 'soft rock']",0tvKT0EdO4Gm1nw7rgiHHa,231240,FALSE,39
+106,(Sittin' On) The Dock Of The Bay,Otis Redding,"['classic soul', 'funk', 'memphis soul', 'soul', 'soul blues', 'southern soul']",3zBhihYUHBmGd2bcQIobrF,163755,FALSE,73
+107,(Sittin' On) The Dock Of The Bay,Sammy Hagar,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'metal', 'rock', 'soft rock']",3LMelxlaociDgqIzLR1eAz,182466,FALSE,12
+108,(Sittin' On) The Dock Of The Bay,Sergio Mendes & Brasil '66,"['bossa nova', 'brazilian jazz', 'samba']",0HJ545UgMU7ttqYHFvb6pn,191760,FALSE,26
+109,(Sittin' On) The Dock Of The Bay,The Reddings,"['funk', 'post-disco', 'post-disco soul']",785NElmjepfzUQVXQcBVxv,163000,FALSE,9
+110,(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",3lrSnngQqNWgvQmcFbCJCx,145264,FALSE,47
+111,(That's) What The Nitty Gritty Is,Shirley Ellis,"['northern soul']",0YgdjmDh0OEGyFsMBHjEoH,154760,FALSE,20
+112,(The Bees Are For The Birds) The Birds Are For The Bees,The Newbeats,"['northern soul']",7eGLhn6AJNiXJUS7VawiUK,133706,FALSE,2
+113,(The Best Part Of) Breakin' Up,The Ronettes,"['adult standards', 'brill building pop', 'classic girl group', 'motown']",6HfubSk3SSjTwZq47HLh1z,184346,FALSE,27
+114,(The Lament Of The Cherokee) Indian Reservation,Don Fardon,"['classic uk pop']",04RM7D5FZzFahr4L6QOuW6,201200,FALSE,14
+115,(The Lights Went Out In) Massachusetts,Bee Gees,"['adult standards', 'disco', 'mellow gold', 'soft rock']",33YKKW1MaDUwq7GDw3WOqR,176320,FALSE,5
+116,(The Man Who Shot) Liberty Valance,Gene Pitney,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk rock', 'merseybeat', 'rock-and-roll']",2ZHxl0iAc5mwJFX6Y5TvRU,178440,FALSE,41
+117,(The Puppet Song) Whiskey On A Sunday,The Irish Rovers,"['canadian celtic', 'celtic', 'irish folk', 'irish pub song']",6ZGHt5l3B8C64NV6uiJmEQ,160800,FALSE,11
+118,(The System Of) Doctor Tarr And Professor Fether,The Alan Parsons Project,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock', 'soft rock', 'symphonic rock']",2IfpSQcggsntXGjXRFWj1b,260852,FALSE,40
+119,(Theme From) Any Number Can Win,Jimmy Smith,"['bebop', 'contemporary post-bop', 'cool jazz', 'hammond organ', 'hard bop', 'jazz', 'jazz blues', 'jazz funk', 'jazz organ', 'soul jazz']",2f3vUTMZ5JL2GauxqDC0la,131573,FALSE,10
+120,(Theme from) My Three Sons,Lawrence Welk And His Orchestra,"[]",4fNOGDefPWPJsze4D66t6p,122600,FALSE,7
+121,(Theme From) Valley Of The Dolls,Dionne Warwick,"['adult standards', 'brill building pop', 'disco', 'lounge', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",021O8Fvrww2EJB8220tgXo,218840,FALSE,36
+122,(There Was A) Tall Oak Tree,Dorsey Burnette,"['traditional rockabilly']",5lgNRKqoMZIfjL4waBliDu,125946,FALSE,2
+123,(There's Gotta Be) More To Life,Stacie Orrico,"['candy pop', 'dance pop', 'europop']",2x5qF66rFO6DERBMNkQAqn,200386,FALSE,56
+124,(There's No Place Like) Home For The Holidays,Perry Como,"['adult standards', 'brill building pop', 'easy listening', 'vocal jazz']",5mKxNjNnRFpO9Muzw3Ug0u,171333,FALSE,66
+125,(There's) Always Something There To Remind Me,Dionne Warwick,"['adult standards', 'brill building pop', 'disco', 'lounge', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",2wc9DHQnBTnMKDIYcXFzoq,179506,FALSE,40
+126,(There's) Always Something There To Remind Me,Lou Johnson,"['northern soul']",1zc9G4b4zbRptS59Lg8VZu,193973,FALSE,25
+127,(There's) Always Something There To Remind Me,Sandie Shaw,"['brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'merseybeat', 'rock-and-roll']",3ahiI70MSf3ESUHqKpMtyc,166133,FALSE,49
+128,(There's) No Gettin' Over Me,Ronnie Milsap,"['classic country pop', 'country', 'country rock', 'nashville sound']",2bRnP6FjtlASGsDtcgRVuI,199680,FALSE,51
+129,(They Long To Be) Close To You,Carpenters,"['adult standards', 'brill building pop', 'mellow gold', 'soft rock']",50q2aUjWoTn6CJIfSPRJQA,276000,FALSE,61
+130,(They Long To Be) Close To You,Jerry Butler & Brenda Lee Eager,"['beach music', 'chicago soul', 'classic soul', 'motown', 'philly soul', 'quiet storm', 'rhythm and blues', 'soul']",2vE5u8H9urlvYNqWV3ENyw,251906,FALSE,12
+131,(Today I Met) The Boy I'm Gonna Marry,Darlene Love,"['adult standards', 'brill building pop', 'motown']",4i5uj1EfjkWmCxpp58K7oE,166053,FALSE,50
+132,(Want You) Back In My Life Again,Carpenters,"['adult standards', 'brill building pop', 'mellow gold', 'soft rock']",3dIBiWACV8dHz7HYn3fi7V,220506,FALSE,33
+133,(We Ain't Got) Nothin' Yet,Blues Magoos,"['bubblegum pop', 'classic garage rock', 'freakbeat', 'protopunk', 'psychedelic rock']",6cQdZhnwKIeLud5qTD7BuQ,135746,FALSE,37
+134,(We'll Be) United,The Intruders,"['classic soul', 'disco', 'funk', 'motown', 'philly soul', 'quiet storm', 'soul', 'southern soul']",1ldikvb9oHHtGUTaZz9XW2,171133,FALSE,28
+135,(We've Got) Honey Love,Martha Reeves & The Vandellas,"['adult standards', 'brill building pop', 'classic girl group', 'classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul']",2Gj1vc5Z4cX673brTMDe8W,149133,FALSE,10
+136,(Welcome) New Lovers,Pat Boone,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly']",657T90Nnp6WpwhZ8oyBCiU,135735,FALSE,4
+137,(What A Sad Way) To Love Someone,Ral Donner,"[]",2cC2EUQRiQEQPuqpBWTUr5,179957,FALSE,2
+138,(what) In The Name Of Love,Naked Eyes,"['dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",1Y1f545iaGofOJo4qya2e5,267066,FALSE,31
+139,(When You Gonna) Give It Up To Me,Sean Paul Featuring Keyshia Cole,"['dance pop', 'dancehall', 'pop', 'pop rap']",6k8uthjEbttfWXcGaNTQGD,243880,FALSE,47
+140,(Where Do I Begin) Love Story,Andy Williams,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold']",45FLu3nL1iMYXYPzhqLdko,189066,FALSE,57
+141,(Wish I Could Fly Like) Superman,The Kinks,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",4uDnx2eQm8V9Fnj0L0k8bb,214733,FALSE,42
+142,(You Can Still) Rock In America,Night Ranger,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']",1anccAjNKZNKlTbHGheeCA,255160,FALSE,47
+143,(You Can't Let The Boy Overpower) The Man In You,Chuck Jackson,"['classic soul', 'motown', 'northern soul', 'rhythm and blues', 'southern soul']",1kkyUSwuSCkM8nnbqBdtEf,186146,FALSE,12
+144,(You Can't Let The Boy Overpower) The Man In You,The Miracles,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",5pQdkHkwQfLMkUE5UaTN2A,175893,FALSE,20
+145,(You Don't Have To) Paint Me A Picture,Gary Lewis And The Playboys,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'folk rock', 'merseybeat', 'rock-and-roll']",7oXi9ywYiQZNVjikAaF7Ul,136440,FALSE,9
+146,(You Don't Know) How Glad I Am,Nancy Wilson,"['adult standards', 'cool jazz', 'jazz', 'lounge', 'soul', 'vocal jazz']",4YkN3JlceD5n2aMqL1kFnH,157386,FALSE,59
+147,(You Drive Me) Crazy,Britney Spears,"['dance pop', 'pop', 'post-teen pop']",1DSJNBNhGZCigg9ll5VeZv,198066,FALSE,61
+148,(You Gotta) Fight For Your Right (To Party!),Beastie Boys,"['alternative rock', 'east coast hip hop', 'hip hop', 'old school hip hop', 'rap']",4TvVE0cxfD1XsqNxPAjbMK,210973,FALSE,46
+149,(You Keep Me) Hangin' On,Joe Simon,"['classic soul', 'motown', 'philly soul', 'soul', 'southern soul']",09fqWxSUJHzpFE10gyXToK,164826,FALSE,11
+150,(You Make Me Feel) So Good,The McCoys,"['brill building pop', 'bubblegum pop', 'classic garage rock', 'folk rock', 'merseybeat']",4V5RFkTNDTGjkHEkg31aQQ,161560,FALSE,8
+151,(You Want To) Make A Memory,Bon Jovi,"['glam metal', 'rock']",09ln4QumFqjIkfCFiW9aRk,276453,FALSE,54
+152,(You Were Made For) All My Love,Jackie Wilson,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'motown', 'quiet storm', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",5ZPv7iC9p3qaTgaFbouI3O,125866,FALSE,15
+153,(You're Gonna) Hurt Yourself,Frankie Valli,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'motown', 'northern soul', 'rock-and-roll']",0ppuz64FCc6gyXk0MojsdJ,152293,FALSE,22
+154,(You're My One And Only) True Love,Seduction,"['freestyle']",0symbiCfmFvJDJgR6y8gkf,230266,FALSE,31
+155,(You're My) Soul And Inspiration,Donny & Marie Osmond,"['chicago soul', 'classic soul', 'funk', 'motown', 'neo soul', 'quiet storm', 'soul', 'southern soul', 'vocal jazz']",4GEhLyiNVnpioIIBVvj77j,194880,FALSE,17
+156,(You're My) Soul And Inspiration,The Righteous Brothers,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'motown', 'rock-and-roll']",5ZHOiRqKOzgFMfMAu8cwzp,201253,FALSE,47
+157,(You're Puttin') A Rush On Me,Stephanie Mills,"['disco', 'funk', 'motown', 'new jack swing', 'post-disco', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",4aLQ6VBFJl7i8msvDOjIsp,352933,FALSE,30
+158,(you're So Square) Baby I Don't Care,Joni Mitchell,"['canadian folk', 'canadian singer-songwriter', 'folk', 'folk rock', 'lilith', 'mellow gold', 'rock', 'singer-songwriter', 'traditional folk']",7aQQEpqjYvWCpFmFfMytDg,158000,FALSE,18
+159,(You've Got To) Move Two Mountains,Marv Johnson,"['motown', 'rhythm and blues']",3m9eJU9HVaYRYhFq6ZxcsT,165933,FALSE,5
+160,(You've Got) Personality And Chantilly Lace,Mitch Ryder,"[]",3aafnVOz0MIxHJqs93Ffon,223133,FALSE,0
+161,(your Love Has Lifted Me) Higher And Higher,Rita Coolidge,"['adult standards', 'bubblegum pop', 'classic uk pop', 'country rock', 'mellow gold', 'native american', 'soft rock']",39iKJpLPhsDTOzH2lXliWF,241720,FALSE,44
+162,(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'motown', 'quiet storm', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",4TBBPZks71c60whhq0PgdP,181066,FALSE,70
+163,@ MEH,Playboi Carti,"['atl hip hop', 'plugg', 'rap', 'trap']",5UusfWUMMLEXLMc1ViNZoe,166799,TRUE,66
+164,***Flawless,Beyonce Featuring Nicki Minaj Or Chimamanda Ngozi Adichie,"['dance pop', 'pop', 'pop rap', 'r&b']",0zVMzJ37VQNFUNvdxxat2E,234413,TRUE,68
+165,#1 Dee Jay,Goody Goody,"['pop rap']",1tU3tJHbokVFAwD11zMuv7,206106,FALSE,0
+166,#1,Nelly,"['dance pop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'urban contemporary']",7rSj5gEdN5KgHwbnEVAZ4b,198760,TRUE,50
+167,#9 Dream,John Lennon,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock']",4ZVWvCUwsOnIGmJMj71RkG,286813,FALSE,55
+168,#Beautiful,Mariah Carey Featuring Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']",617KSbx52ACbnQBxSsG26X,199866,FALSE,56
+169,#SELFIE,The Chainsmokers,"['electropop', 'pop', 'tropical house']",1HOlb9rdNOmy9b1Fakicjo,183750,FALSE,65
+170,#thatPOWER,will.i.am Featuring Justin Bieber,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",01TuObJVd7owWchVRuQbQw,279506,FALSE,68
+171,$ave Dat Money,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,"['pop rap', 'rap']",6AoYWCzsDls6c61Zp5qTuU,290835,TRUE,71
+172,0 To 100 / The Catch Up,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",4jtyUzZm9WLc2AdaJ1dso7,275226,TRUE,73
+173,1 Night,Lil Yachty,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",40yJGQyEaBbIkXpwMFkXip,243269,TRUE,72
+174,1 Thing,Amerie,"['alternative r&b', 'dance pop', 'deep pop r&b', 'hip hop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",1mnqraQ8oV8MX92rdOFLWW,238760,FALSE,59
+175,"1 2 Many",Luke Combs & Brooks & Dunn,"['contemporary country']",6pgN3d6oBrhmrSAKBfWNsf,180906,FALSE,73
+176,"1 2 Step",Ciara Featuring Missy Elliott,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']",7uKcScNXuO3MWw6LowBjW1,203786,FALSE,75
+177,"1 2 3 4 (Sumpin' New)",Coolio,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",3aln8WgAUps6efYtdEYxP3,214306,FALSE,49
+178,"1 2 3 4",Plain White T's,"['neo mellow', 'pop', 'pop punk', 'pop rock']",5VWmMZCfJ4yVkJw9ZLFXej,198360,FALSE,62
+179,1+1,Beyonce,"['dance pop', 'pop', 'pop rap', 'r&b']",1pzJboOZaDNwshBnOlNh3a,273880,FALSE,60
+180,10 Bands,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",12d5QFwzh60IIHlsSnAvps,177733,TRUE,66
+181,10 Freaky Girls,Metro Boomin Featuring 21 Savage,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",0AluA5RNsa4Cx6XRhf2hWZ,208293,TRUE,79
+182,10 Little Bottles,Johnny Bond,"['cowboy western', 'oklahoma country']",7arkA3xW7Vg3ipw6VQinmU,245506,FALSE,16
+183,100 Grandkids,Mac Miller,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap']",4z0PnuB07fxtVZZRWsCfxb,278506,TRUE,65
+184,100 Years,Five For Fighting,"['acoustic pop', 'neo mellow', 'piano rock', 'pop rock', 'post-grunge']",2lFlveK1y13WWp3vnQtrr3,244600,FALSE,66
+185,100 Years,Nancy Sinatra,"['adult standards', 'brill building pop', 'folk rock', 'lounge']",25nEGGqcm7rrz7yqscoPCo,151510,FALSE,13
+186,100% Pure Love,Crystal Waters,"['disco house', 'diva house', 'hip house', 'vocal house']",0dfQwyoZoS9LgQiU6AJO7f,278626,FALSE,54
+187,100,The Game Featuring Drake,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",46MFlm7p0Vqd0eXmLtDlN4,334360,TRUE,62
+188,1234,Feist,"['art pop', 'canadian indie', 'canadian pop', 'chamber pop', 'indie pop', 'indie rock', 'slow core', 'stomp and holler']",2CzWeyC9zlDpIOZPUUKrBW,183666,FALSE,59
+189,1400 / 999 Freestyle,Trippie Redd Featuring Juice WRLD,"['melodic rap', 'rap', 'trap']",75lcPkAkUsKWHGBlGM476R,175954,TRUE,83
+190,143,Bobby Brackins Featuring Ray J,"['cali rap', 'slow game']",4DdaOUTsCqz4cLK3z92oso,206813,TRUE,44
+191,16 Candles,The Crests,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",4FgGZFdLekTIjocfAu9Mxd,172460,FALSE,37
+192,17 Again,Brantley Gilbert,"['contemporary country', 'country', 'country road', 'modern country rock']",7qgsIONiXn49hfU4OfgBSJ,239773,FALSE,42
+193,17,Rick James,"['disco', 'funk', 'motown', 'post-disco', 'quiet storm', 'soul']",6OcLpsG6btCBvPvrFCS2Lw,249653,FALSE,27
+194,18 And Life,Skid Row,"['album rock', 'glam metal', 'hard rock', 'metal', 'rock']",0qgrrDnUUhyxpxbBznUnzg,229960,FALSE,70
+195,18 Yellow Roses,Bobby Darin,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'motown', 'rock-and-roll', 'rockabilly', 'soul', 'swing', 'vocal jazz']",1j0bGiIr8TI4YwBOHWpWFs,139640,FALSE,27
+196,18,One Direction,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']",3JjnGLK8IxkNLvo8Lb3KOM,248360,FALSE,74
+197,19 Somethin',Mark Wills,"['contemporary country', 'country', 'country road']",0ElpjZyX8YBiXuYcDC1Ci9,200466,FALSE,58
+198,19 You + Me,Dan + Shay,"['contemporary country', 'pop']",7ongSdLv28Z27WeCrzZXwB,217406,FALSE,63
+199,1900 Yesterday,Liz Damon's Orient Express,"[]",5UsiMHzHpuoGnG7RpBZkfJ,177693,FALSE,29
+200,1901,Phoenix,"['alternative dance', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave']",3FM33HqRlV7J1QJoPOnd2u,193106,FALSE,66
+201,1941,Tom Northcott,"['sunshine pop']",4q2kFl7xEOdrrfccjYZ9JK,172693,FALSE,0
+202,1942 Flows,Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",7sLDnUauivS2vN6Z9EfUJT,282666,TRUE,61
+203,1942,G-Eazy Featuring Yo Gotti & YBN Nahmir,"['hip hop', 'indie pop rap', 'pop rap', 'rap']",794QVQtFNy7hvtjQP1keQd,213080,TRUE,72
+204,1973,James Blunt,"['neo mellow', 'pop', 'pop rock']",1BV0m40U0M4t1SLIsDnwZl,280026,FALSE,69
+205,1979,The Smashing Pumpkins,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",5QLHGv0DfpeXLNFo7SFEy1,266200,FALSE,75
+206,1984,Spirit,"[]",7lWrbXLcsWuRYtS8dqQgNX,217133,FALSE,13
+207,1985 (Intro To The Fall Off),J. Cole,"['conscious hip hop', 'hip hop', 'nc hip hop', 'pop rap', 'rap']",7EulRO07ZgchxqKUHb8Pvc,190176,TRUE,70
+208,1985,Bowling For Soup,"['comic', 'pop punk', 'post-grunge', 'texas pop punk']",5oQcOu1omDykbIPSdSQQNJ,193000,FALSE,70
+209,1994,Jason Aldean,"['contemporary country', 'country', 'country road']",3C6WblKJq7rpsPsIafytEV,242680,FALSE,53
+210,1999,Prince,"['bachata', 'latin', 'latin pop', 'reggaeton', 'tropical']",2H7PHVdQ3mXqEHXcvclTB0,379266,FALSE,68
+211,19,Paul Hardcastle,"['jazz funk', 'smooth jazz']",5fVFdkU5U6ULjXgwm5q89Q,210853,FALSE,47
+212,19th Nervous Breakdown,The Rolling Stones,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",21ElXnithj4MX8E4rg5lh8,236400,FALSE,51
+213,1st Of Tha Month,Bone Thugs-N-Harmony,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",1dF5Y2dd7Wm4wZKvVjWBpr,314680,TRUE,65
+214,1st Time,Yung Joc Featuring Marques Houston & Trey Songz,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",5ehwXxbiFNYwlmntoKom7h,267626,TRUE,41
+215,2 Become 1,Spice Girls,"['dance pop', 'europop', 'girl group', 'pop', 'pop rock']",36AWdhZIGLUTkWpJDhe7va,241026,FALSE,66
+216,2 Much,Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",0oaY19dUwZimIgzn3ZZLZO,152796,FALSE,76
+217,2 On,Tinashe Featuring ScHoolboy Q,"['alternative r&b', 'dance pop', 'deep pop r&b', 'electropop', 'hip pop', 'metropopolis', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",3jVtllWS5CFFWLQng8sKsr,227000,TRUE,69
+218,2 Phones,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",0wdKiSBUT7aZkXUIdJWcwC,240000,TRUE,71
+219,2 Reasons,Trey Songz Featuring T.I.,"['dance pop', 'pop', 'pop rap', 'r&b', 'trap', 'urban contemporary']",6lgzJuBX3iqevLdtgNlyAU,197626,TRUE,53
+220,2 Step,Unk,"['atl hip hop', 'dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",34vVztCAeKpPtzYfGHQjiV,322933,TRUE,53
+221,20/20,Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap']",4Hqh0dS4x07zuRw6eBTO7p,230448,TRUE,69
+222,2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,"['australian pop', 'dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']",1ERCOXHQcoLSTlgmNTlcrR,222200,FALSE,55
+223,21 Guns,Green Day,"['modern rock', 'permanent wave', 'punk']",64yrDBpcdwEdNY9loyEGbX,321093,FALSE,76
+224,21 Questions,50 Cent Featuring Nate Dogg,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",41bIQPBE1lFN0mmw6Lmssz,224426,TRUE,70
+225,21,Polo G,"['chicago rap']",3JKgcAa7r07ocVWcV8bS0H,163797,TRUE,83
+226,21st Century Girl,Willow,"['dance pop', 'electropop', 'pop']",3YeSBr4X8luRfhWwiHHnad,183144,FALSE,0
+227,223's,YNW Melly & 9lokknine,"['melodic rap', 'rap', 'trap']",4sjiIpEv617LDXaidKioOI,176640,TRUE,87
+228,22,Taylor Swift,"['pop', 'post-teen pop']",3bIxTsfeNMO7Nt2J3EUKrA,230133,FALSE,62
+229,23,"Mike WiLL Made-It Featuring Miley Cyrus Wiz Khalifa & Juicy J","['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",20FZrLl9zSbO9b3DhaqO6M,252520,TRUE,70
+230,24 Hours,TeeFLii Featuring 2 Chainz,"['deep pop r&b', 'west coast trap']",7LWtfSW68VAkHp3hpcFDCY,215986,TRUE,48
+231,24's,T.I.,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",33j4CLU9UyRjO63ry5J61Q,282906,TRUE,56
+232,24K Magic,Bruno Mars,"['dance pop', 'pop']",6b8Be6ljOzmkOmFslEb23P,225983,FALSE,79
+233,25 Or 6 To 4,Chicago,"['adult standards', 'album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",7GqIDx2QVGOpd4r1fZaUUW,289800,FALSE,65
+234,25 To Life,Eminem,"['detroit hip hop', 'g funk', 'hip hop', 'rap']",0dyWQoMOU9oERL6c9vxtRp,241586,TRUE,67
+235,26 Cents,The Wilkinsons,"['canadian country', 'country']",2Qqby4S52keCDukyq5EcBZ,231400,FALSE,35
+236,2U,David Guetta Featuring Justin Bieber,"['dance pop', 'edm', 'pop']",762UXiwEHYY97VL45sAUPR,194906,FALSE,67
+237,3 A.M. Eternal,The KLF,"['acid house']",413adkV8KrZQUPvU0iD9Dj,347218,FALSE,27
+238,3 Headed Snake,Gunna Featuring Young Thug,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",2OaKHGvIxoOzIYjyMsxcT8,241995,TRUE,68
+239,3 Little Words,Nu Flavor,"['boy band']",4alLyN9my0O1SD9y097cPl,256306,FALSE,35
+240,3 Peat,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",58PWl2rA7lU90UBvDufzWm,199426,TRUE,58
+241,30 For 30 Freestyle,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",1DmnEYXa4WfbdhAPwNzgD8,253934,TRUE,56
+242,3000 Miles,Brian Hyland,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'merseybeat', 'rock-and-roll', 'rockabilly']",0liRKxQQmW2b9wDVwtBFAR,161333,FALSE,9
+243,31 Days,Future,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",7MywASx2OFZngfoORjo1yy,240682,TRUE,56
+244,31 Flavors,The Shirelles,"['adult standards', 'brill building pop', 'classic girl group', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",24mR7NmnxdNXxxYnZ4qOTf,118333,FALSE,9
+245,32 Flavors,Alana Davis,"['ectofolk', 'lilith']",3o5dmw1M6ugfLpva7yTyDr,227306,FALSE,35
+246,33,Polo G,"['chicago rap']",2iW6Hb6kfrz2K7EhPibFiq,170057,TRUE,70
+247,34+35,Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",6Im9k8u9iIzKMrmV7BWtlF,173710,TRUE,88
+248,34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,"[]",3jjBPF4NDMCU51psU8JPpR,182437,TRUE,78
+249,360 Degrees (What Goes Around),Grand Puba,"['alternative hip hop', 'east coast hip hop', 'hardcore hip hop', 'harlem hip hop', 'hip hop', 'turntablism']",4OlpEdouAXIzch2MnllGq6,240866,FALSE,17
+250,365,Zedd & Katy Perry,"['complextro', 'dance pop', 'edm', 'electro house', 'german techno', 'pop', 'post-teen pop', 'tropical house']",2XWjPtKdi5sucFYtVav07d,181899,FALSE,78
+251,3,Britney Spears,"['dance pop', 'pop', 'post-teen pop']",6pymOcrCnMuCWdgGVTvUgP,213173,FALSE,65
+252,3rd Man Theme,Herb Alpert & The Tijuana Brass,"['adult standards', 'easy listening', 'lounge']",2zj3dV24GbzQ7jNg8EwCgh,153973,FALSE,25
+253,4 - By The Beatles,The Beatles,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",4uKyLqJHDjT6mdA22ofxuM,305973,FALSE,33
+254,4 Da Gang,Future,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",3IJ6BBFLD2I2CH3hHFQj3O,187748,TRUE,55
+255,4 Ever,Lil' Mo Featuring Fabolous,"['hip pop', 'r&b', 'urban contemporary']",42GyzxpX8RmcD7vWqWLGBt,222946,FALSE,9
+256,4 In The Morning,Gwen Stefani,"['dance pop', 'europop', 'hip pop', 'pop', 'pop rock', 'post-teen pop']",64fSdRkaB7ksxI9suUGYmi,291106,FALSE,50
+257,4 Minutes,Avant,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'new jack swing', 'pop rap', 'r&b', 'urban contemporary']",3g6SuyjGaGyAXmjvdNI1IU,240320,FALSE,48
+258,4 Minutes,Glee Cast,"['glee club', 'hollywood', 'post-teen pop']",5aWlISJTMKHHThgoXIYUw8,189400,FALSE,44
+259,4 Minutes,Madonna Featuring Justin Timberlake & Timbaland,"['dance pop', 'pop']",1oHClQEgDmmbcEx12Kc5nZ,189693,FALSE,70
+260,4 My Town (Play Ball),Birdman Featuring Drake & Lil Wayne,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",3922kPG1JMYBNhACLo9j3f,261266,TRUE,44
+261,4 Seasons Of Loneliness,Boyz II Men,"['boy band', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",027tq4cWr0kRxLTfdxvM1L,292400,FALSE,46
+262,4 Your Eyez Only,J. Cole,"['conscious hip hop', 'hip hop', 'nc hip hop', 'pop rap', 'rap']",1vvnYpYEMVB4aq9I6tHIEB,530253,TRUE,66
+263,"4 5 6",Sole Featuring JT Money & Kandi,"['alternative r&b', 'escape room', 'indie r&b', 'indie soul', 'nc hip hop']",3SsO5zbbDfcU95HD0ygg7c,255760,TRUE,23
+264,409,The Beach Boys,"['baroque pop', 'brill building pop', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",1gWj5OlKlZmBvtkYxluZux,120866,FALSE,42
+265,44 Bulldog,Pop Smoke,"['brooklyn drill']",7sjFIZ1g5QLJLGja3k592K,150857,TRUE,67
+266,44 More,Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",3e7Y6sfFlIdBMJhX7wpqVO,188600,TRUE,75
+267,442 Glenwood Avenue,The Pixies Three,"['classic girl group']",6U760jf1bo0toem4F9WF2S,134640,FALSE,6
+268,4422,Drake Featuring Sampha,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",2fkeWbM6iqTw7oGHTYm2lw,186293,FALSE,64
+269,444+222,Lil Uzi Vert,"['melodic rap', 'philly rap', 'pop rap', 'rap', 'trap']",1QgTBfRN5m81a5K01qens6,247347,TRUE,65
+270,4th Dimension,KIDS SEE GHOSTS Featuring Louis Prima,"['hip hop', 'rap']",6JyEh4kl9DLwmSAoNDRn5b,153351,TRUE,71
+271,5 D (Fifth Dimension),The Byrds,"['album rock', 'art rock', 'blues rock', 'brill building pop', 'bubblegum pop', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'traditional folk']",0p9JES4ZaHWRlNPNF7XURU,154640,FALSE,4
+272,5 Miles To Empty,Brownstone,"['girl group', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",2kJxVNGxZSENlLGCdV8AIV,225933,FALSE,20
+273,5 O'Clock,Nonchalant,"['hip pop']",6oSCS3HtxuYlKH8y4nS3Qn,302640,FALSE,31
+274,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",6j236RwzFFj4wqH2tWJNBD,281533,TRUE,61
+275,5 Star,Yo Gotti,"['dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",6N9wsG0HYEpGEr0Ihgbz5r,247440,TRUE,40
+276,5% Tint,Travis Scott,"['rap']",11kDth1aKUEUMq9r1pqyds,196138,TRUE,73
+277,50 Ways To Leave Your Lover,Paul Simon,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",6Qb7gtV6Q4MnUjSbkFcopl,217346,FALSE,70
+278,50 Ways To Say Goodbye,Train,"['neo mellow', 'pop', 'pop rock']",2NniAhAtkRACaMeYt48xlD,247946,FALSE,66
+279,500 Miles Away From Home,Bobby Bare,"['classic country pop', 'country', 'country rock', 'outlaw country']",44AauRai27QWKEx4dKn0oU,162560,FALSE,48
+280,500 Miles,Hooters,"['album rock', 'mellow gold', 'philly indie', 'soft rock']",4NTVgBIkIO63F7V4cTTDtr,262060,FALSE,51
+281,57 Channels (And Nothin' On),Bruce Springsteen,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",42eWzCqHuCD5QRwzq3I24e,145466,FALSE,35
+282,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",0z5ZPs57J2KERwM1tBM2GF,248586,TRUE,71
+283,6 God,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",3a8tAZFJxlmBwOtrf5L1oC,180666,TRUE,64
+284,6 Inch,Beyonce Featuring The Weeknd,"['dance pop', 'pop', 'pop rap', 'r&b']",0pxNyJJiL2zZZ5GgJ4JhsQ,260440,TRUE,68
+285,6 Kiss,Trippie Redd Featuring Juice WRLD & YNW Melly,"['melodic rap', 'rap', 'trap']",7tgjDlQsMR8RvkdlNCJA58,199436,TRUE,84
+286,6 Man,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",4kdfjhj9xNkYU0R8xlDy8k,167653,TRUE,62
+287,6 Minutes Of Pleasure,LL Cool J,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'hip pop', 'old school hip hop', 'pop rap', 'queens hip hop', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",0rDGGor6D1IHggV8UiUfEp,274053,FALSE,23
+288,6 Underground,Sneaker Pimps,"['alternative dance', 'electronica', 'trip hop']",7KvSuH86lIT2aTl9PBCAfd,228840,FALSE,50
+289,66,Lil Yachty Featuring Trippie Redd,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",6tarvNiKnEjYMj1VZhlDqR,153474,TRUE,68
+290,679,Fetty Wap Featuring Remy Boyz,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",5NQbUaeTEOGdD6hHcre0dZ,196693,TRUE,76
+291,7 And 7 Is,Love,"['adult standards', 'brill building pop', 'motown']",271WYO9G0zp3YhAi6tNqCd,139160,FALSE,41
+292,7 Days,Craig David,"['british soul', 'dance pop', 'pop', 'r&b', 'tropical house', 'urban contemporary']",0gPQTLaqHDgdupKEok7J2x,235133,FALSE,71
+293,7 Rings,Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",6ocbgoVGwYJhOv1GgI9NsF,178626,TRUE,91
+294,7 Rooms Of Gloom,Four Tops,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",59IxJQuFPmW4Xvy7GynZDF,154573,FALSE,33
+295,7 Seconds,Youssou N'Dour & Neneh Cherry,"['afropop', 'mande pop', 'mbalax', 'world']",76D5nfZbYzZYfUZKGy73jy,305773,FALSE,60
+296,7 Summers,Morgan Wallen,"['contemporary country']",4obHzpwGrjoTuZh2DItEMZ,210506,FALSE,75
+297,7 Things,Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",5ecZWU5uQOiCVSnPxBZNmT,213453,FALSE,63
+298,7 Years,Lukas Graham,"['danish pop', 'pop', 'scandipop']",5kqIPrATaCc2LqxVWzQGbk,237300,FALSE,81
+299,7,Prince And The New Power Generation,"['funk', 'funk rock', 'minneapolis sound', 'motown']",4hvxrI9P7c480gW0arZn3d,178266,FALSE,53
+300,8 Out Of 10,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",0zqy3ss4CwD6u4QPksS0nI,195720,TRUE,66
+301,8 X 10,Bill Anderson,"['nashville sound']",0R6PIalA9f5AQgD6DQk5gz,167440,FALSE,8
+302,808,Blaque,"[]",1Pqv7l6vxjBxd5fx4bWchC,306693,FALSE,42
+303,80s Mercedes,Maren Morris,"['contemporary country', 'pop', 'texas country']",58spuRyMUsjKHQHEGwLC99,211767,FALSE,63
+304,865,Morgan Wallen,"['contemporary country']",0sKEilrw1GrBlG6qsTCrP4,190680,FALSE,73
+305,8,Billie Eilish,"['electropop', 'pop']",6X29iaaazwho3ab7GNue5r,173201,FALSE,80
+306,8th Of November,Big & Rich,"['detroit hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2X0aeFJXJZpeK2nSWvypiI,298240,FALSE,49
+307,8th Wonder,Sugarhill Gang,"['east coast hip hop', 'funk', 'hip hop', 'hip house', 'new jersey rap', 'old school hip hop', 'rap']",6m0wOLtrzaNwMofVVJTJqs,446506,FALSE,32
+308,8th World Wonder,Kimberley Locke,"['idol']",7oGIRgJMViLFRzGHyhF9bI,240733,FALSE,32
+309,9 Piece,Rick Ross Featuring Lil Wayne Or T.I.,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",6aD178OGxT0Z1NU36g52X5,239986,TRUE,50
+310,9 To 5,Dolly Parton,"['classic country pop', 'country', 'country dawn']",4w3tQBXhn5345eUXDGBWZG,162466,FALSE,77
+311,911,Wyclef Jean Featuring Mary J. Blige,"['rap kreyol']",28hgx2bWXcaBJeC9zVwrBq,259333,FALSE,47
+312,92 Explorer,Post Malone,"['dfw rap', 'melodic rap', 'rap']",1D2L6MefbXon28PzIk9I3r,211426,TRUE,76
+313,93 'til Infinity,Souls Of Mischief,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'turntablism']",0PV1TFUMTBrDETzW6KQulB,286440,FALSE,69
+314,96 Tears,? (Question Mark) & The Mysterians,"['chicano punk', 'classic garage rock', 'freakbeat', 'protopunk', 'psychedelic rock']",4PEeZ2U4UfP2Jo8EtIOjus,176866,FALSE,54
+315,96 Tears,Big Maybelle,"['blues', 'jump blues', 'rhythm and blues', 'southern soul']",7eotSbuPkqE4DkvsSZLUM6,143280,FALSE,37
+316,96 Tears,Garland Jeffreys,"['pub rock']",6au8o0VvJ8jM8o13ys3Jqg,185573,FALSE,32
+317,99 Luftballons,Nena,"['german pop', 'german rock', 'new wave pop']",4ZhPLoMzZwewHLLjV1J15c,232466,FALSE,74
+318,99 Problems,JAY-Z,"['east coast hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",7sLpSWxQazJzDVG6YGzlVs,234626,TRUE,61
+319,99 Problems,Tony Lucca,"['acoustic pop', 'neo mellow']",3FPJJ38O4Vqp5d00grSwCd,143760,FALSE,19
+320,99 Worlds,Peter Wolf,"[]",4YOzKJAdIzFryLFeF6VYXy,216106,FALSE,6
+321,992 Arguments,The O'Jays,"['classic soul', 'disco', 'funk', 'motown', 'philly soul', 'post-disco', 'quiet storm', 'soul', 'southern soul', 'urban contemporary']",7ycwZrSaXqhSaY5yeOZgdS,366373,FALSE,24
+322,99,Toto,"['album rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",2R3E4xKmy7lyieBKONkIMT,316053,FALSE,49
+323,9,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",1C7KSXR2GVxknex6I4ANco,255786,TRUE,62
+324,A Bad Goodbye,Clint Black With Wynonna,"[]",1XTgqedadpTqNod7SvpiP1,219293,FALSE,40
+325,A Bay Bay,Hurricane Chris,"['deep southern trap', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",6MnFB3qurhmGs1xdjrz5Bg,257120,FALSE,54
+326,A Beautiful Morning,The Rascals,"['brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'merseybeat', 'motown', 'psychedelic rock', 'rock-and-roll']",3QwbKe0s8TcNclzXAXHeHy,151800,FALSE,49
+327,A Beautiful Story,Sonny & Cher,"['deep groove house', 'deep house', 'disco house', 'house', 'uk dance']",5xOE1ynrGbFxlK0mL7gNib,172800,FALSE,9
+328,A Better Love,Londonbeat,"['eurodance', 'europop', 'hip house']",1fALXFVWhnXVME9MNCQmt1,240400,FALSE,17
+329,A Bitter End,Deryl Dodd,"['red dirt', 'roots americana', 'texas country']",2Z0NqDDYs2678XXdbi0vuv,218979,FALSE,29
+330,A Boy Is A Gun,"Tyler, The Creator","['hip hop', 'rap']",1nXZnTALNXiPlvXotqHm66,210253,TRUE,73
+331,A Boy Named Sue,Johnny Cash,"['arkansas country', 'outlaw country']",5xMNjx7uqCzMpJZSo4Wq55,233813,FALSE,62
+332,A Boy Without A Girl,Frankie Avalon,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'rock-and-roll']",0CUsZyJMSDjhdoQZxHhTtx,117093,FALSE,12
+333,A Brand New Me,Dusty Springfield,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'lounge', 'mellow gold', 'motown', 'rock', 'soul', 'vocal jazz']",6fXYggORMfDwMohgq50SV8,177133,FALSE,3
+334,A Breath Taking Guy,The Supremes,"['adult standards', 'brill building pop', 'classic girl group', 'disco', 'funk', 'motown', 'quiet storm', 'soul']",1ePIjPuiQvrLKKYJhW7dPh,146560,FALSE,6
+335,A Case Of You,James Wolpert,"['deep talent show']",6YaB4TXX4s2AJreMQ6cuIj,232660,FALSE,31
+336,A Certain Girl,Ernie K-Doe,"['louisiana blues', 'new orleans blues', 'new orleans funk', 'rhythm and blues']",5VToyZ5cdGGwakh4wRSvMK,165826,FALSE,29
+337,A Certain Girl,Warren Zevon,"['classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'traditional folk']",24tc3OZ7YRdtQofd23niCE,188200,FALSE,30
+338,A Certain Smile,Johnny Mathis,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold', 'vocal jazz']",76eNJQoJmN4mfsUW0q8HPv,168293,FALSE,39
+339,A Change Is Gonna Come,Sam Cooke,"['adult standards', 'brill building pop', 'classic soul', 'rock-and-roll', 'soul']",0KOE1hat4SIer491XKk4Pa,191160,FALSE,67
+340,A Closer Walk,Pete Fountain,"['dixieland', 'jazz clarinet', 'new orleans jazz']",0crCWOYbMWjlC4pnbMqSyV,375560,FALSE,31
+341,A Corner In The Sun,Walter Jackson,"['chicago soul', 'classic soul', 'southern soul']",1DOQ4CSjYKvwQbFK0lGbj5,140800,FALSE,1
+342,A Cottage For Sale,Little Willie John,"['rhythm and blues', 'rock-and-roll', 'soul', 'southern soul']",2UJ55v5EICM8T3wekSJx30,175440,FALSE,9
+343,A Cowboys Work Is Never Done,Sonny & Cher,"['deep groove house', 'deep house', 'disco house', 'house', 'uk dance']",3X1a60iOm7XAJ1ZT1w2TVq,194733,FALSE,25
+344,A Day In My Life (Without You),Lisette Melendez,"['freestyle']",0p0BTRnRU4QWvXNn0xS0WM,235040,FALSE,34
+345,A Day In The Life Of A Fool,Jack Jones,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",7nYBMEtMVLMAJQMpaQHULU,141800,FALSE,33
+346,A Different Corner,George Michael,"['dance rock', 'europop', 'new wave pop', 'soft rock']",6khoye7kysa6cLGY0AO9dO,243533,FALSE,59
+347,A Different World,Bucky Covington,"['contemporary country', 'country', 'country road', 'modern country rock']",0E0B8a7LSVgbQL160oUnwO,208573,FALSE,50
+348,A Dollar Down,The Limeliters,"['american folk revival', 'traditional folk']",4MYwuoHZRF7zcWH9zXUhDQ,158093,FALSE,3
+349,A Dose Of Rock 'N' Roll,Ringo Starr,"['album rock', 'bubblegum pop', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",1g24LmZ5xzNyoh5vQkqGGU,203906,FALSE,13
+350,A Dream Goes On Forever,Todd Rundgren,"['album rock', 'art rock', 'classic rock', 'classic uk pop', 'country rock', 'folk', 'folk rock', 'mellow gold', 'philly soul', 'power pop', 'psychedelic rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'symphonic rock', 'zolo']",0tiBROmRVHxKAtgI8Hg9Sa,145160,FALSE,28
+351,A Dreams A Dream,Soul II Soul,"['british soul', 'funk', 'hip house', 'post-disco', 'quiet storm']",6SGOR8yLKOxa6sB9p7mQPr,338866,FALSE,27
+352,A Face In The Crowd,Tom Petty,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",4tSZr210OTY6upjNYfEYUI,239306,FALSE,43
+353,A Feelin' Like That,Gary Allan,"['contemporary country', 'country', 'country road', 'modern country rock']",4zhiR8GdYCOShGhs0itUyo,210640,FALSE,37
+354,A Few Questions,Clay Walker,"['contemporary country', 'country', 'country road', 'country rock', 'modern country rock']",33rYHZtXXBvlwwqU74er7N,224258,FALSE,0
+355,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,"['disco', 'hammond organ']",1hR3TNe1neCWRQatSVOFfX,182533,FALSE,50
+356,A Fine Fine Boy,Darlene Love,"['adult standards', 'brill building pop', 'motown']",6w5j6CHKVppZRanO9Z0Mhd,165746,FALSE,21
+357,A Fine Fine Day,Tony Carey,"[]",5091oN6DGFSX8vfZsJyJij,265600,FALSE,34
+358,A Fool In Love,Ike & Tina Turner,"['brill building pop', 'classic soul', 'motown', 'soul', 'southern soul']",6Srd24SS5VX3tKztnos6gk,160626,FALSE,45
+359,A Fool Never Learns,Andy Williams,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold']",78Uz5O2o00RpnNNlvOMl7K,121786,FALSE,17
+360,A Fool Such As I,Bob Dylan,"['album rock', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",1KFTXJslA3vdcSxE4k8azK,163053,FALSE,22
+361,A Girl Has To Know,The G-Clefs,"[]",4bDfHzfDotB2o3y4AetBN0,158014,FALSE,1
+362,A Girl In Trouble (Is A Temporary Thing),Romeo Void,"['dance rock', 'new romantic', 'new wave', 'new wave pop']",6825ujIyyrnHiXOzTVlWFG,257333,FALSE,40
+363,A Girl Like You,Easton Corbin,"['contemporary country', 'country', 'country road', 'modern country rock']",3AsNVBJ7LHsltdu9490ZiS,217840,FALSE,61
+364,A Girl Like You,The Smithereens,"['alternative rock', 'dance rock', 'jangle pop', 'new jersey indie', 'new wave', 'new wave pop', 'power pop', 'roots rock']",4qz8PpznLcX5AtoUusIiAh,282866,FALSE,49
+365,A Girl Like You,The Young Rascals,"['brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'merseybeat', 'motown', 'psychedelic rock', 'rock-and-roll']",79d9LM5k2QfpkWYKVRe1fR,170313,FALSE,31
+366,A Girl's Work Is Never Done,The Chordettes,"['adult standards', 'brill building pop', 'classic girl group', 'doo-wop', 'rock-and-roll', 'vocal harmony group']",7nbBbmaknS1IpTzGMQTAf9,136560,FALSE,16
+367,A Good Day To Run,Darryl Worley,"['contemporary country', 'country', 'country road', 'modern country rock']",6EFqjXS2NinmyYcUI25OdH,188573,FALSE,37
+368,A Good Heart,Feargal Sharkey,"['new wave pop']",4umQbcdBF3YVsNBvvnFLiX,281800,FALSE,58
+369,A Great Big Sled,The Killers Featuring Toni Halliday,"['modern rock', 'permanent wave', 'rock']",06IAtZZ8S6oeshqZpIJ00M,258922,FALSE,57
+370,A Groovy Kind Of Love,The Mindbenders,"['british invasion', 'bubblegum pop', 'merseybeat', 'rock-and-roll']",2xOEmK42jfYwj0biDzNlW2,121003,FALSE,24
+371,A Guy Walks Into A Bar,Tyler Farr,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock', 'redneck']",16PNN9wK1LbedzcTp7y8y0,196000,FALSE,59
+372,A Guy With A Girl,Blake Shelton,"['contemporary country', 'country', 'country road', 'oklahoma country']",5sjIhQzNljMVrDklI91ezp,189466,FALSE,65
+373,A Hard Day's Night,Ramsey Lewis Trio,"['soul jazz']",0eoNrnF0SUbfSlPAuz8dIA,303466,FALSE,19
+374,A Hard Day's Night,The Beatles,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",5J2CHimS7dWYMImCHkEFaJ,154200,FALSE,69
+375,A Hazy Shade Of Winter,Simon & Garfunkel,"['classical performance', 'orchestral performance']",2GB8OypbvrvCee61FKx5dp,137480,FALSE,56
+376,A Heart In New York,Art Garfunkel,"['adult standards', 'folk', 'folk rock', 'mellow gold', 'soft rock', 'traditional folk']",05iPg44iQftuEjHXoXAlvT,191800,FALSE,44
+377,A Holly Jolly Christmas,Burl Ives,"['adult standards', 'american folk revival']",65Q2mv3UlVi9eO70OpsmSe,135533,FALSE,80
+378,A Holly Jolly Christmas,Burl Ives,"['adult standards', 'american folk revival']",65Q2mv3UlVi9eO70OpsmSe,135533,FALSE,82
+379,A Horse With No Name,America,"['album rock', 'art rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",54eZmuggBFJbV7k248bTTt,252239,FALSE,78
+380,A House Is Not A Home,Brook Benton,"['adult standards', 'brill building pop', 'motown', 'rhythm and blues', 'rock-and-roll', 'soul', 'southern soul']",5Hcr7IkfNZ1FNmikY9MNly,181000,FALSE,16
+381,A House Is Not A Home,Dionne Warwick,"['adult standards', 'brill building pop', 'disco', 'lounge', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",3gLe1SDGLShBTQr0BAwDKl,188493,FALSE,33
+382,A House Is Not A Home,Glee Cast,"['glee club', 'hollywood', 'post-teen pop']",3aiKybRCTBazAplseCewQc,282920,FALSE,41
+383,"A House A Car And A Wedding Ring",Dale Hawkins,"['rock-and-roll', 'rockabilly']",7lZh0ZVppr0HH9t7k7wMqJ,131239,FALSE,2
+384,A Hundred Pounds Of Clay,Gene McDaniels,"[]",4s9qKAu0wMyIWVUB7Cuv3j,142026,FALSE,33
+385,A Hurricane Is Coming Tonite,Carol Douglas,"['deep disco', 'disco', 'post-disco']",0FPZDwCZWqKHowIZmB4UEB,239666,FALSE,3
+386,A Kind Of Magic,Queen,"['glam rock', 'rock']",1LFK84nUerBbYfFd1LmnTm,264253,FALSE,55
+387,A La Primera Persona,Alejandro Sanz,"['cantautor', 'latin', 'latin arena pop', 'latin pop', 'mexican pop', 'rock en espanol', 'spanish pop']",6mXHxE2BEafOgdWoFvc6mF,301933,FALSE,56
+388,A Lesson In Leavin',Dottie West,"['classic country pop', 'nashville sound']",0ImxI6CSbQsrYdhv9C8eUO,180773,FALSE,27
+389,A Letter From Betty,Bobby Vee,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'merseybeat', 'rock-and-roll', 'rockabilly']",514dJooiPZvtIHrpYSDgK6,150240,FALSE,12
+390,A Letter To An Angel,Jimmy Clanton,"['brill building pop', 'deep adult standards', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'swamp pop']",3Y7wceiUKsiubeKkezCVsP,174614,FALSE,7
+391,A Letter To Myself,The Chi-lites,"['chicago soul', 'classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",2mnOh7OLEaxN4qa4CFYzJq,335213,FALSE,24
+392,A Letter To The Beatles,The Four Preps,"['deep adult standards', 'vocal harmony group']",0plC6iWLWj47wldCTc3oWs,171693,FALSE,7
+393,A Lie,French Montana Featuring The Weeknd & Max B,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",1vVNlXi8gf8tZ7OhnEs4VE,226790,TRUE,58
+394,A Life Of Illusion,Joe Walsh,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'roots rock', 'soft rock', 'southern rock', 'symphonic rock']",19P4fwkPhE6yVAXApFWDoF,210533,FALSE,60
+395,A Lifetime Of Loneliness,Jackie DeShannon,"['brill building pop', 'bubblegum pop', 'merseybeat']",6Jx6jy5B6ATD4wkWAYGR0f,157266,FALSE,13
+396,A Little Bit Like Magic,King Harvest,"['soft rock']",3atXF2eAOpkbcxLN1nGlW1,139560,FALSE,41
+397,A Little Bit Longer,Jonas Brothers,"['boy band', 'dance pop', 'pop', 'pop rock', 'post-teen pop']",1C9CSFviMwp3kyZHmV09ed,205013,FALSE,53
+398,"A Little Bit Me A Little Bit You",The Monkees,"['brill building pop', 'bubblegum pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'rock-and-roll', 'soft rock', 'sunshine pop']",4CeMCGrUZByXsrPUV7Qzsu,168053,FALSE,44
+399,A Little Bit More,Dr. Hook,"['bubblegum pop', 'classic uk pop', 'country rock', 'folk rock', 'mellow gold', 'soft rock']",7wz2Amu2EVjGYQzqlLwCKg,173960,FALSE,40
+400,A Little Bit Of Ecstasy,Jocelyn Enriquez,"['freestyle']",4gmcD7RZVO68JwIwtK0vpx,248000,FALSE,35
+401,A Little Bit Of Heaven,Ronnie Dove,"['deep adult standards']",5BwkPXxLhEvIdeqzZHobwQ,168066,FALSE,12
+402,A Little Bit Of Love (Is All It Takes),New Edition,"['boy band', 'dance pop', 'funk', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",5Xyvly56qugv3k5Y95eQ9t,393990,FALSE,10
+403,A Little Bit Of Soap,Garnet Mimms,"['rhythm and blues', 'southern soul']",1Gw1tk0DDbGkDgmSmyi4BF,143560,FALSE,8
+404,A Little Bit Of Soap,Paul Davis,"['album rock', 'bubblegum pop', 'country rock', 'folk rock', 'mellow gold', 'new wave pop', 'soft rock', 'yacht rock']",4lgZJvM3yx4jdfRRUjDG3I,152760,FALSE,14
+405,A Little Bit Of Soap,The Jarmels,"['doo-wop']",2Xi25G3RGqAweBWythuo6R,133813,FALSE,34
+406,A Little Bit Stronger,Sara Evans,"['contemporary country', 'country', 'country dawn', 'country gospel', 'country road']",5FIp4LrsffxiHLhmmpCbCx,301986,FALSE,66
+407,A Little Bitty Tear,Burl Ives,"['adult standards', 'american folk revival']",3XhTHMleuyoQCP8jxOeIhD,125400,FALSE,35
+408,A Little Bitty Tear,Wanda Jackson,"['nashville sound', 'oklahoma country', 'rock-and-roll', 'rockabilly']",7iVA8TCXjIeNjq7o2lHwWi,126106,FALSE,1
+409,A Little Dog Cried,Jimmie Rodgers,"['appalachian folk', 'country rock', 'folk', 'old-time', 'traditional country', 'traditional folk', 'yodeling']",5wAp4WLK435brIzG2qVLQi,145965,FALSE,3
+410,A Little Feeling (Called Love),Jack Scott,"['brill building pop', 'deep adult standards', 'rock-and-roll', 'rockabilly']",4YDV8fPzCCpghxuy0beu4P,163733,FALSE,5
+411,A Little Gasoline,Terri Clark,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country dawn', 'country road']",3YAYui2FXhYxjK88359km2,188640,FALSE,26
+412,A Little Good News,Anne Murray,"['adult standards', 'bubblegum pop', 'canadian country', 'canadian pop', 'folk', 'mellow gold', 'soft rock']",5dFkgiFjPIsY7HWxsAV5h3,188306,FALSE,35
+413,A Little In Love,Cliff Richard,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'europop', 'mellow gold', 'new wave pop', 'rock-and-roll', 'soft rock']",6IXSfTzUjEsKc9iOvDkIx4,219533,FALSE,25
+414,A Little Is Enough,Pete Townshend,"['album rock', 'art rock', 'classic rock', 'folk rock', 'mellow gold', 'power pop', 'protopunk', 'pub rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'symphonic rock']",1kTVJHll6cl8SyH2Op2EEr,283000,FALSE,27
+415,A Little Less Conversation,Elvis Presley vs JXL,"[]",4rr0gWiMrF4sOIefs3IEvZ,211506,FALSE,64
+416,"A Little Less Sixteen Candles A Little More Touch Me",Fall Out Boy,"['emo', 'modern rock', 'pop punk']",4pmU8AtVu9qU40Xd9zjEfA,169026,FALSE,60
+417,A Little Love,Corey Hart,"['album rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",7rYipZC5OPXEdhK69Lc8JJ,252666,FALSE,12
+418,A Little Love,Juice Newton,"['classic country pop', 'country dawn', 'soft rock']",6K1b1cx8qPa6kFMPdtbdLE,194733,FALSE,35
+419,A Little More Country Than That,Easton Corbin,"['contemporary country', 'country', 'country road', 'modern country rock']",7LrZ3SczM7zlUkVlhevPp2,172226,FALSE,54
+420,A Little More Love,Olivia Newton-John,"['adult standards', 'australian dance', 'bubblegum pop', 'disco', 'mellow gold', 'new wave pop', 'soft rock']",2g5egJm0qwJPKgpblzIHlI,207013,FALSE,38
+421,A Little More Summertime,Jason Aldean,"['contemporary country', 'country', 'country road']",3esPcn43N0CytAtcY9V30C,219546,FALSE,56
+422,A Little Party Never Killed Nobody (All We Got),"Fergie Q-Tip & GoonRock","['dance pop', 'pop', 'pop rap', 'post-teen pop']",1mz9ZrRYu3EPVg9ZHFtjjf,240906,FALSE,59
+423,A Little Past Little Rock,Lee Ann Womack,"['contemporary country', 'country', 'country dawn', 'country road']",3Xl5apC8UhqZ1FZ7u3HHfO,256026,FALSE,39
+424,A Little Respect,Erasure,"['dance pop', 'dance rock', 'europop', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",2RVQIq7bLi4Eu6xHPyQ46t,213373,FALSE,63
+425,A Little Too Late,Toby Keith,"['contemporary country', 'country', 'country road', 'oklahoma country']",5djhyxT7ZIzM1rP2XE2ygb,248040,FALSE,40
+426,A Little Too Much,Clarence Henry,"['louisiana blues', 'new orleans blues', 'rhythm and blues', 'rock-and-roll']",27Iit0kCpobHouAgwjU9zS,115800,FALSE,13
+427,A Little Too Much,Shawn Mendes,"['canadian pop', 'pop', 'post-teen pop', 'viral pop']",1T7AiFL9ruKKwlONN35Vh0,187026,FALSE,70
+428,A Little You,Freddie And The Dreamers,"['brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'merseybeat', 'rock-and-roll']",2lp6dr6gTMQJgI2Ny0kwYw,129600,FALSE,9
+429,A Lonely Night,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",0ifooM33X1iBxVYyOkSbXW,220173,FALSE,69
+430,A Long Walk,Jill Scott,"['funk', 'hip hop', 'hip pop', 'neo soul', 'r&b', 'soul', 'urban contemporary']",1CeizRCGEYPWooEeVfmyFL,280973,FALSE,55
+431,A Lot Of Things Different,Kenny Chesney,"['contemporary country', 'country', 'country road']",1Hy3tvcg6l5o4codLnOC8f,283866,FALSE,36
+432,A Lot,21 Savage,"['atl hip hop', 'pop rap', 'rap', 'trap']",2t8yVaLvJ0RenpXUIAC52d,288624,TRUE,83
+433,A Love Bizarre,Sheila E.,"['funk', 'minneapolis sound', 'quiet storm']",5R6ol4f8WCUCWNrB7Ymf99,736862,FALSE,46
+434,A Love Of My Own,Carla Thomas,"['classic soul', 'memphis soul', 'motown', 'soul', 'southern soul']",5RmFLhiJu0U2m28BeFC8Jy,152240,FALSE,27
+435,A Love She Can Count On,The Miracles,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",48n4F3hkCFyf6nVs79zctM,182666,FALSE,29
+436,A Love So Fine,The Chiffons,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'doo-wop', 'merseybeat', 'motown', 'rhythm and blues', 'rock-and-roll']",2Z5rJNI4Wdxud3vwm42l4n,115480,FALSE,14
+437,A Love Song,Kenny Rogers,"['adult standards', 'classic country pop', 'country', 'mellow gold', 'nashville sound', 'soft rock']",3UAbTey1XDtdb9EKQq1lXf,197706,FALSE,42
+438,A Love That's Real,The Intruders,"['classic soul', 'disco', 'funk', 'motown', 'philly soul', 'quiet storm', 'soul', 'southern soul']",7KpERdL8FSWPt0Pc4Nmrcw,174933,FALSE,19
+439,A Lover's Concerto,Mrs. Miller,"['novelty', 'outsider', 'space age pop']",5Hife6QE6Hnq72Ims8CX96,153533,FALSE,6
+440,A Lover's Concerto,Sarah Vaughan,"['adult standards', 'bebop', 'cool jazz', 'jazz', 'lounge', 'soul', 'swing', 'torch song', 'vocal jazz']",5n4Pz0tBeKQkZj5CubLHK6,168200,FALSE,32
+441,A Lover's Concerto,The Toys,"['thai pop']",1gcY3t8AODYm42HsxVPo8R,158000,FALSE,33
+442,A Lover's Holiday,Change,"['disco', 'funk', 'jazz funk', 'minneapolis sound', 'post-disco', 'quiet storm']",7AzZ2sNganpJKdsumfvu81,384813,FALSE,38
+443,A Lover's Prayer,Dion & The Belmonts,"['canadian pop', 'dance pop']",1KuUNurxWPWBl9Zdbba4Ce,139093,FALSE,22
+444,A Lover's Question,Clyde McPhatter,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",6HBgCYResmsdmOufyHVoNB,150266,FALSE,39
+445,A Lover's Question,Loggins & Messina,"['album rock', 'mellow gold', 'new wave pop', 'rock', 'soft rock', 'yacht rock']",4uniE3cbok1zOTUC64G8Yq,201626,FALSE,22
+446,A Lover's Question,Otis Redding,"['classic soul', 'funk', 'memphis soul', 'soul', 'soul blues', 'southern soul']",3pl0zws6JCFYUOuMJQNwB7,155773,FALSE,21
+447,A Lucky Guy,Rickie Lee Jones,"['country rock', 'folk', 'lilith', 'mellow gold', 'new wave pop', 'roots rock', 'singer-songwriter']",2ScFhA8p6gkIfLNjzK0fun,249613,FALSE,14
+448,A Mama And A Papa,Ray Stevens,"['bubblegum pop', 'comic', 'country rock', 'novelty']",6BTDkjjSj74cjXjRUpPK2P,171640,FALSE,7
+449,A Man Ain't Made Of Stone,Randy Travis,"['country', 'country gospel', 'country road', 'country rock']",0zfROzbYJMHs9xz6XeDrRl,213506,FALSE,19
+450,A Man And A Half,Wilson Pickett,"['brill building pop', 'classic rock', 'classic soul', 'folk rock', 'funk', 'memphis soul', 'motown', 'rock-and-roll', 'soul', 'southern soul']",7II22fb2A8y90vqcLfb2jJ,172573,FALSE,18
+451,A Man Holdin' On (To A Woman Lettin' Go),Ty Herndon,"['country', 'country road']",2wavvCo7vDjTy9KHrwvSFI,218133,FALSE,31
+452,A Man I'll Never Be,Boston,"['album rock', 'art rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",0bjKbwEvZfU5epyZ3aZm1y,396173,FALSE,45
+453,A Man Needs A Woman,James Carr,"['classic soul', 'memphis soul', 'motown', 'rhythm and blues', 'soul', 'southern soul']",04Hi1j80cnQoTKbOsfIMiP,169400,FALSE,26
+454,A Man Who Was Gonna Die Young,Eric Church,"['contemporary country', 'country', 'country road', 'modern country rock']",4tLNKzcRv95bWCtwNpH4w6,193786,FALSE,48
+455,A Matter Of Trust,Billy Joel,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",6J212smZzpeOCYQ9DITMSC,248746,FALSE,53
+456,A Milli,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",6ScJMrlpiLfZUGtWp4QIVt,221840,TRUE,75
+457,A Million And One,Dean Martin,"['adult standards', 'easy listening', 'lounge']",1DTydXUp7Y4InWSM38rLuI,175226,FALSE,34
+458,A Million And One,Vic Dana,"['deep adult standards']",7qykdbkxp5BN1EBpRdOLfs,149880,FALSE,9
+459,A Million Dreams,P!nk,"['dance pop', 'pop', 'post-teen pop']",0oagwWkGlBoACUuKvTmqZV,273640,FALSE,71
+460,A Million Miles Away,The Plimsouls,"['jangle pop', 'power pop', 'underground power pop']",4jF4kZArkVKvvYXOlplMtA,215200,FALSE,42
+461,A Million To One,Brian Hyland,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'merseybeat', 'rock-and-roll', 'rockabilly']",5cfhjwlnKG5TkCUWdUNCct,161693,FALSE,2
+462,A Million To One,Five Stairsteps & Cubie,"['chicago soul', 'classic soul', 'motown', 'soul']",3XQ6vzfo6YBa95XUhD6wdN,164093,FALSE,8
+463,A Miracle,Frankie Avalon,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'rock-and-roll']",1USwd0VpMKlgfMYmdrJJvq,138005,FALSE,11
+464,A Moment Like This,Kelly Clarkson,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'talent show']",4kvdX9zzsix7jYHsRVkVUH,228280,FALSE,60
+465,A Mother For My Children,The Whispers,"['classic soul', 'disco', 'funk', 'motown', 'new jack swing', 'post-disco', 'quiet storm', 'rock steady', 'soul', 'urban contemporary']",55eqxcMFb92snDL5ays5Uf,194093,FALSE,13
+466,A Mover La Colita,Artie The 1 Man Party,"[]",1NqWH3La3cW4HfYfVmUbYu,168226,FALSE,7
+467,A Must To Avoid,Herman's Hermits,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'merseybeat', 'rock-and-roll']",2rYKu9ogqK1BjYLt1bMsGt,115240,FALSE,21
+468,A Natural Man,Lou Rawls,"['adult standards', 'classic soul', 'disco', 'lounge', 'motown', 'philly soul', 'quiet storm', 'soul', 'soul blues', 'vocal jazz']",1UhY3dJlChFoC9dOkD4ZzO,221960,FALSE,30
+469,A Natural Woman (You Make Me Feel Like),Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",5K09WxKdlkroDyEVyOSySy,166812,FALSE,70
+470,A New Day Has Come,Celine Dion,"['canadian pop', 'dance pop']",5fkDD7aQLUmMy1EwzNm0ZB,259773,FALSE,58
+471,A Night To Remember,Joe Diffie,"['country', 'country road', 'country rock', 'oklahoma country', 'redneck']",7r45fN7xpmDIOxKIyPb6qb,210693,FALSE,34
+472,A Night To Remember,Shalamar,"['disco', 'funk', 'motown', 'post-disco', 'quiet storm', 'soul', 'urban contemporary']",2xsXNMfcKLQxL5sQq4v7gH,299360,FALSE,47
+473,A Part Of Me,Jimmy Clanton,"['brill building pop', 'deep adult standards', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'swamp pop']",1o1lP6jcQv7LdozV6K3l6s,171223,FALSE,1
+474,A Part Of You,Brenda & The Tabulations,"['adult standards', 'brill building pop']",4M7TYUKxKVHD7xPDf6lzaY,208706,FALSE,2
+475,A Passion Play (Edit #8),Jethro Tull,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",3vFl8RqdSGRjDFjp08WYkd,208213,FALSE,14
+476,A Penny For Your Thoughts,Tavares,"['adult standards', 'classic soul', 'disco', 'funk', 'motown', 'post-disco', 'quiet storm']",4JC90rQSqwMAhekHuu2hCj,270066,FALSE,41
+477,A Perfect Love,Frankie Avalon,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'rock-and-roll']",1OnzfZTZGZPjayArD35MFZ,141010,FALSE,12
+478,A Place In The Sun,Pablo Cruise,"['country rock', 'folk rock', 'mellow gold', 'soft rock', 'yacht rock']",0pvQtJzaIcBJelSZo3PeDw,284200,FALSE,32
+479,A Place In The Sun,Stevie Wonder,"['adult standards', 'motown', 'quiet storm', 'soul']",0tURbnatc9qCxlYpXuPK8I,172960,FALSE,51
+480,A Prayer And A Juke Box,Little Anthony And The Imperials,"['brill building pop', 'classic soul', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll']",13VnT52RksrtePXc8w9NAC,149400,FALSE,9
+481,A Promise I Make,Dakota Moon,"[]",6dWbvrb0xygIlstvZxDhDJ,267280,FALSE,36
+482,A Public Affair,Jessica Simpson,"['dance pop', 'post-teen pop']",1gFMesXcHHtIUhwzxYFOtz,201466,FALSE,43
+483,A Quiet Place,Garnet Mimms & The Enchanters,"['rhythm and blues', 'southern soul']",0F4y2dXS9MxisNOO8DksUt,144306,FALSE,27
+484,A Ray Of Hope,The Rascals,"['brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'merseybeat', 'motown', 'psychedelic rock', 'rock-and-roll']",7osQgwNLoDtLFoZJ4Rwkqq,226213,FALSE,17
+485,A Real Fine Place To Start,Sara Evans,"['contemporary country', 'country', 'country dawn', 'country gospel', 'country road']",6O2lo7245XfRbIfpL5yRLJ,238733,FALSE,39
+486,A Real Mother For Ya,Johnny Guitar Watson,"['blues', 'funk']",27QTVCKEfq41PjPKQVa7vW,304533,FALSE,41
+487,A Rock 'N' Roll Fantasy,The Kinks,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",05RqsEr4euppjIJ8bcvvrR,298746,FALSE,29
+488,A Rockin' Good Way (To Mess Around And Fall In Love),Dinah Washington & Brook Benton,"['adult standards', 'jazz', 'jazz blues', 'lounge', 'soul', 'swing', 'vocal jazz']",4ydSzWwxqtNdP4VPfQe8bf,148226,FALSE,47
+489,A Rose By Any Other Name,Teena Marie Featuring Gerald Levert,"['classic soul', 'disco', 'funk', 'motown', 'neo soul', 'new jack swing', 'post-disco', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",5czO1qonoydMKYqyEqWVL3,327160,FALSE,32
+490,A Rose Is Still A Rose,Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",3pi27Gt4NetgWmEMFOCjBQ,266666,FALSE,47
+491,A Satisfied Mind,Bobby Hebb,"['motown', 'northern soul']",5trFoWc3DxknotgAxtYkFl,163493,FALSE,21
+492,A Shoulder To Cry On,Tommy Page,"[]",5YRjPuBxgb9GaOfEvYCzHo,202306,FALSE,44
+493,A Sign Of The Times,Petula Clark,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'easy listening', 'folk', 'folk rock', 'lounge', 'mellow gold', 'merseybeat', 'rock-and-roll']",6EdGkH1mk7dKIgc3CKgo7F,177066,FALSE,27
+494,A Simple Game,Four Tops,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",79OrkKwVCBIzzGAw6XyfUj,176973,FALSE,27
+495,A Simple Man,Lobo,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'country rock', 'folk', 'folk rock', 'mellow gold', 'soft rock']",3iLJvy9U6HWJMy00Tvw3pK,176440,FALSE,27
+496,A Sky Full Of Stars,Coldplay,"['permanent wave', 'pop']",0FDzzruyVECATHXKHFs9eJ,268466,FALSE,79
+497,A Song For Mama,Boyz II Men,"['boy band', 'new jack swing', 'pop', 'quiet storm', 'r&b', 'urban contemporary']",6FuJokk9FHx0E00SZ8ib8X,303373,FALSE,52
+498,A Song For You,Andy Williams,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold']",6elsVYsbdVvjOGL7aK4zqe,188066,FALSE,31
+499,A Song I'd Like To Sing,Kris Kristofferson & Rita Coolidge,"['country rock', 'folk', 'folk rock', 'mellow gold', 'outlaw country', 'roots rock', 'singer-songwriter', 'traditional folk']",53aAtPr0aC6xZzLYBULWwm,241560,FALSE,12
+500,A Steel Guitar And A Glass Of Wine,Paul Anka,"['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge', 'rock-and-roll']",54xxVmu4bycyQ7psgJdzrh,135133,FALSE,42
+501,A String Of Trumpets,The Trumpeteers,"['gospel singers', 'vintage gospel', 'vocal harmony group']",0gxIYinFFY0AZ9vqHddZhD,110266,FALSE,3
+502,A Summer Song,Chad & Jeremy,"['christmas instrumental', 'compositional ambient', 'focus', 'neo-classical', 'new age piano']",5xM7bDmr2KUynKX6OfZufi,160413,FALSE,47
+503,A Sunday Kind Of Love,Jan & Dean,"['christmas instrumental']",60NDI5NHrseIRMcP8mp8Yy,137666,FALSE,6
+504,A Sweet Woman Like You,Joe Tex,"[]",2ZAziniVKKou2xrgbJOMfp,157400,FALSE,10
+505,A Symphony For Susan,The Arbors,"[]",65t1qUTFzrl94IxuDq7oQa,155146,FALSE,13
+506,A Taste Of Honey,Tony Bennett,"['adult standards', 'easy listening', 'vocal jazz']",6m6s3MapXf4go7fmDJv3IP,174666,FALSE,16
+507,A Tear,Gene McDaniels,"[]",4fY55Qe6xoGJS6LKgyRSqz,129960,FALSE,6
+508,A Teenager Feels It Too,Denny Reed,"[]",6V76ONUZMavBZa4jLSZHd8,127800,FALSE,4
+509,A Teenager In Love,Dion & The Belmonts,"['canadian pop', 'dance pop']",0QGwOFQChzflLAmPq5NwKo,158253,FALSE,62
+510,A Texan And A Girl From Mexico,Anita Bryant,"['deep adult standards']",0MfEsraMRE1knGMyiNnRf4,160960,FALSE,2
+511,A Thing Of The Past,The Shirelles,"['adult standards', 'brill building pop', 'classic girl group', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",7yg0J6AuFKGF78mmy1req3,158173,FALSE,15
+512,A Thousand Bad Times,Post Malone,"['dfw rap', 'melodic rap', 'rap']",2J0NXdHr6MYvKDSxB7k3V2,221173,TRUE,80
+513,A Thousand Miles,Vanessa Carlton,"['acoustic pop', 'dance pop', 'lilith', 'neo mellow', 'piano rock', 'pop rock']",4w1lzcaoZ1IC2K5TwjalRP,237493,FALSE,77
+514,A Thousand Shadows,The Seeds,"['permanent wave']",49wmhN7AAF7acdnDYlN8dj,152226,FALSE,11
+515,A Thousand Years (Part 2),Christina Perri Featuring Steve Kazee,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",7hn8Q8WAxFdL4aZ159GI7C,305893,FALSE,65
+516,A Thousand Years,Christina Perri,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",6lanRgr6wXibZr8KgzXxBl,285120,FALSE,81
+517,A Thousand Years,Sawyer Fredericks,"['folk-pop', 'ny roots']",1xbtFabmTCcxN0gozYj2AZ,169836,FALSE,25
+518,A Tribute To A King,William Bell,"['classic soul', 'memphis soul', 'motown', 'soul', 'southern soul']",2Ej7FgxsCf7UjGO2pOvYOO,172626,FALSE,22
+519,A Trick Of The Night,Bananarama,"['dance pop', 'dance rock', 'disco', 'europop', 'girl group', 'hi-nrg', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",23uzQCHKEArHACuIZ9598I,248573,FALSE,19
+520,A Very Special Love Song,Charlie Rich,"['arkansas country', 'country', 'country rock', 'nashville sound']",3EwfpG9f86Z2cHIZ7N99Ii,166173,FALSE,25
+521,A View To A Kill,Duran Duran,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",3O9zeBmAi5JRBMSpIQGx2v,217693,FALSE,55
+522,A Walk In The Black Forest,Horst Jankowski,"['german jazz']",3msjvrkCvIzUNJHULcAafN,169680,FALSE,33
+523,A Well Respected Man,The Kinks,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",5e3isD5st7PGYzSJuoRSIV,161586,FALSE,56
+524,A Whiter Shade Of Pale,Procol Harum,"['album rock', 'art rock', 'blues rock', 'british invasion', 'classic rock', 'classic uk pop', 'folk rock', 'progressive rock', 'psychedelic rock', 'symphonic rock']",78ZqE2tjAxbqEGGlvGnQfT,248946,FALSE,68
+525,A Whole New World (Aladdin's Theme),Peabo Bryson & Regina Belle,"['adult standards', 'new jack swing', 'quiet storm', 'soft rock', 'urban contemporary']",4tS8xQfyPGc7f4lJ1JP6BX,243493,FALSE,64
+526,A Woman Can Change A Man,Joe Tex,"[]",1Ti8nW5kOkv33Swl3DZveQ,164866,FALSE,5
+527,A Woman In Love (It's Not Me),Tom Petty And The Heartbreakers,"['album rock', 'classic rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'pop rock', 'psychedelic rock', 'rock', 'roots rock', 'soft rock']",2OECBjmrt1tupVdg8jcfE1,259773,FALSE,45
+528,A Woman Like You,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",3oyMHCAAcnWFdcGuVgwfhd,209786,FALSE,62
+529,A Woman Needs Love (Just Like You Do),Ray Parker Jr. & Raydio,"['disco']",0DEwNI2DgasX1eprqCivJk,249053,FALSE,46
+530,"A Woman A Lover A Friend",Jackie Wilson,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'motown', 'quiet storm', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",6sIhdMiTFJfLFVQ73ugQHg,156600,FALSE,31
+531,A Woman's Hands,Joe Tex,"[]",5oPno5EuUJ3zFdx2IOyG2u,210213,FALSE,23
+532,A Woman's Love,Alan Jackson,"['contemporary country', 'country', 'country road']",09PAfjdMXMoTLwhYffyfIu,253640,FALSE,32
+533,A Woman's Love,Carla Thomas,"['classic soul', 'memphis soul', 'motown', 'soul', 'southern soul']",53HP1YlOvzYkImudH6FN6K,174639,FALSE,14
+534,A Woman's Worth,Alicia Keys,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",1NRorokmYEtr1koWybvaE4,303333,FALSE,57
+535,A Womans' Way,Rozetta Johnson,"[]",1Sz9tbkM2YIpzqE45ww0vR,214493,FALSE,18
+536,A Wonderful Dream,The Majors,"[]",7phNHUv2ElaycVYwGvXD78,124000,FALSE,24
+537,A Word In Spanish,Elton John,"['glam rock', 'mellow gold', 'piano rock']",1EsN2D481Q3E8vz68nkNoA,279106,FALSE,33
+538,A World Of Our Own,The Seekers,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'folk', 'folk rock', 'mellow gold', 'merseybeat', 'rock-and-roll', 'traditional folk']",1DVTwlo4nWm41i91rN4xqh,163200,FALSE,43
+539,A World Without Heroes,KISS,"['album rock', 'classic rock', 'glam rock', 'hard rock', 'metal', 'rock']",2bCBrhZdfdHnDucyQcyp42,160666,FALSE,32
+540,A World Without Love,Bobby Rydell,"['adult standards', 'brill building pop', 'bubblegum pop', 'deep adult standards', 'doo-wop', 'merseybeat', 'rock-and-roll', 'rockabilly']",2t8n9fRJQHW7yaUOOw1g17,167506,FALSE,20
+541,A World Without Love,Peter And Gordon,"['brill building pop', 'british blues', 'british invasion', 'bubblegum pop', 'folk rock', 'merseybeat']",1A0j6qANKHgk7VZ6uvYO06,160880,FALSE,45
+542,A World Without Music,Archie Bell & The Drells,"['beach music', 'classic soul', 'disco', 'motown', 'northern soul', 'philly soul', 'quiet storm', 'rhythm and blues', 'soul', 'southern soul']",6cEfNnApZLeaYFUjHgpl4P,137013,FALSE,4
+543,A Worried Man,The Kingston Trio,"['american folk revival', 'bubblegum pop', 'folk', 'folk rock', 'traditional folk']",2ypwkRuydYboYjvhduYvWm,207333,FALSE,27
+544,A Year Ago Tonight,The Crests,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",4MaG4nWSIrDAtEUnkam31R,145480,FALSE,1
+545,A Year Without Rain,Selena Gomez & The Scene,"['dance pop', 'pop', 'post-teen pop']",1r0XfrhdG6bsiS4oe1QM96,234333,FALSE,58
+546,A$AP Forever,A$AP Rocky Featuring Moby,"['east coast hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",1YmF9PvLhIISIANoMLIYGq,233061,TRUE,70
+547,Aaron's Party (Come Get It),Aaron Carter,"['dance pop', 'post-teen pop']",0osyPhZsaMy7AlYNajBMBq,205373,FALSE,41
+548,Abacab,Genesis,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",10ThhPNj7E31iHGR0jTfeP,418146,FALSE,45
+549,Abadabadango,Kim Carnes,"['new wave pop', 'soft rock']",6Xh5kq8X2wd5RIGrC8VFGF,228506,FALSE,16
+550,ABC,Glee Cast,"['glee club', 'hollywood', 'post-teen pop']",73o83gUyd4hdmGdYNYcTJp,174000,FALSE,45
+551,ABC,Jackson 5,"['adult standards', 'motown', 'soul']",6wDviYDtmSDZ0S6TVMM9Vc,177733,FALSE,65
+552,Abigail Beecher,Freddy Cannon,"['brill building pop', 'bubblegum pop', 'doo-wop', 'merseybeat', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",6ch6E0na67OZxbafYsHM2p,144360,FALSE,11
+553,Abilene,George Hamilton IV,"['traditional country']",5bA26v8eeZrbHJpD4YPKAX,133333,FALSE,47
+554,About The Money,T.I. Featuring Young Thug,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",1hzJQIkgXwZevaKsc7iA6D,270120,TRUE,61
+555,About Us,Brooke Hogan Featuring Paul Wall,"['post-teen pop']",6REZUx5kZ8H8RRnIlKgINi,203346,FALSE,36
+556,About You Now,Miranda Cosgrove,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",3oRMeMMJ1xUhBBpy2iGE2g,190560,FALSE,45
+557,About You,Trey Songz,"['dance pop', 'pop', 'pop rap', 'r&b', 'trap', 'urban contemporary']",2ssYQKMqVUkoQgi02PmDPB,196899,TRUE,57
+558,Abracadabra,The Steve Miller Band,"[]",2UoiDuPSArZ1dz81koCc4l,306856,TRUE,0
+559,"Abraham Martin And John",Dion,"['canadian pop', 'dance pop']",08oRPVeAXWNnRZUzNJpYsv,200400,FALSE,46
+560,"Abraham Martin And John",Smokey Robinson & The Miracles,"['classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",7x5vC0sqmXpmTrgnuDMXmc,180066,FALSE,10
+561,Absence Of The Heart,Deana Carter,"['contemporary country', 'country', 'country dawn']",7wLHPeD2BAtsibEcV9XYL8,210733,FALSE,18
+562,Absolute Beginners,David Bowie,"['album rock', 'art rock', 'classic rock', 'dance rock', 'glam rock', 'permanent wave', 'protopunk', 'rock']",1F6WOrW9vtrE5v1XWl08k4,337666,FALSE,46
+563,Absolutely (Story Of A Girl),Nine Days,"['neo mellow', 'pop rock', 'post-grunge']",3mNecsYFb6LQg7822DPXCP,189333,FALSE,66
+564,Absolutely Right,Five Man Electrical Band,"['canadian psychedelic', 'classic canadian rock']",4LjJIibyUazknsZNZWHOgy,138200,FALSE,29
+565,Absolute,The Fray,"['neo mellow', 'piano rock', 'pop', 'pop rock']",6sSDEFMeyf16WRDLRCXwTc,227080,FALSE,44
+566,Acapella,Karmin,"['dance pop', 'electropop', 'post-teen pop', 'viral pop']",6RjW45KHJ6kgI2xQ1aFa52,198906,FALSE,64
+567,Accidental Racist,Brad Paisley Featuring LL Cool J,"['contemporary country', 'country', 'country road']",23q6Nowh5GeqtY5jTDzKyQ,351173,FALSE,30
+568,Accidentally In Love,Counting Crows,"['alternative rock', 'neo mellow', 'pop rock', 'post-grunge', 'rock']",4ccM2xBxicGigjLqt6A0YY,188613,FALSE,59
+569,According To You,Orianthi,"['candy pop']",72phhQtfwZcRweweRxxkmU,200346,FALSE,56
+570,Achy Breaky 2,Buck 22 Featuring Billy Ray Cyrus,"[]",37FK7UA8BqmCllCfFabkLE,152221,FALSE,24
+571,Achy Breaky Heart,Billy Ray Cyrus,"['country', 'country road']",2EoIt9vdgFRNW03u5IvFsQ,203373,FALSE,66
+572,Acquainted,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",7uJH0YdSZL6psjxI6Xy08b,348853,TRUE,73
+573,Across 110th Street,Bobby Womack & Peace,"['classic soul', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",2zyTP97uGsIc1C4KNNEkyn,230506,FALSE,61
+574,Across The Miles,Survivor,"['album rock', 'hard rock', 'rock', 'soft rock']",5XfIOUX34DGMJlZzPv9zHB,351533,FALSE,22
+575,Across The River,Bruce Hornsby & The Range,"['album rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'piano rock', 'pop rock', 'soft rock']",72vw18TcgD8jmJvBr9qaVZ,309720,FALSE,24
+576,Across The Universe,Various Artists,"['ethiopian pop']",4lxreqqyX8FBYgwClz3TRa,343493,FALSE,2
+577,Act A Fool,Ludacris,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",28mv40MzspRZn0PBcO2itT,270733,TRUE,64
+578,Act Naturally,The Beatles,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",0IxxqsYBcCHEQ1HqLYJnwx,150373,FALSE,50
+579,Act Right,Yo Gotti Featuring Jeezy & YG,"['dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",7yz6wjkAV0ZByLrlcrMkAx,250773,TRUE,52
+580,Act Up,City Girls,"['pop', 'pop rap', 'trap queen']",3A2yGHWIzmGEIolwonU69h,158332,TRUE,79
+581,Act Up,City Girls,"['pop', 'pop rap', 'trap queen']",3A2yGHWIzmGEIolwonU69h,158332,TRUE,80
+582,Action Speaks Louder Than Words,Chocolate Milk,"['funk', 'new orleans funk', 'post-disco']",2vMMyG4iw5OppGOh23kXIe,211186,FALSE,28
+583,Action,"Evelyn ""Champagne"" King","['disco', 'funk', 'minneapolis sound', 'motown', 'post-disco', 'quiet storm', 'soul', 'urban contemporary']",3gJ1OC8hwp1A4SyAXaNLtr,350986,FALSE,15
+584,Action,Freddy Cannon,"['brill building pop', 'bubblegum pop', 'doo-wop', 'merseybeat', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",3wn2aA8h5yl39BxhynNP70,130853,FALSE,16
+585,Action,Sweet,"[]",2rkwEerYv5dhmu3WONhJqo,200360,FALSE,25
+586,Action,Terror Fabulous Featuring Nadine Sutherland,"['dancehall', 'deep ragga', 'lovers rock', 'old school dancehall']",42F0eI7tFI8Xez4iqXObBt,201746,FALSE,51
+587,Adam And Eve,Paul Anka,"['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge', 'rock-and-roll']",4YmJXCXCkLorPkYiSPFUN3,131293,FALSE,34
+588,Add Some Music To Your Day,The Beach Boys,"['baroque pop', 'brill building pop', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",5fmSii6QOiD1LPvfapnQHK,215893,FALSE,28
+589,Adderall (Corvette Corvette),Popp Hunna,"['philly rap', 'viral rap']",2Y3USTCETS4xbjJOzT1Icm,176382,TRUE,70
+590,Addicted To Love,Robert Palmer,"['album rock', 'art rock', 'classic rock', 'classic uk pop', 'dance rock', 'disco', 'heartland rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'yacht rock']",5izGeTxueiFX1UPFGohY9w,363640,FALSE,68
+591,Addicted,Saving Abel,"['alternative metal', 'nu metal', 'post-grunge']",3pxCXv0NACYfYnLjFcQW5D,222826,TRUE,68
+592,Addicted,Simple Plan,"['canadian pop punk', 'canadian punk', 'canadian rock', 'pop punk', 'post-grunge']",1B8MHa0NveCF1ViBEOZWO5,232066,FALSE,65
+593,Adia,Sarah McLachlan,"['canadian pop', 'canadian singer-songwriter', 'ectofolk', 'folk', 'lilith', 'neo mellow', 'new wave pop', 'permanent wave', 'pop rock']",0rl84FuazRHYmK72krdmA1,244666,FALSE,57
+594,Adicto,"Tainy Anuel AA & Ozuna","['pop reggaeton']",3jbT1Y5MoPwEIpZndDDwVq,270740,FALSE,91
+595,Adios Amigo,Jim Reeves,"['adult standards', 'nashville sound', 'rock-and-roll']",6J1HWy2pduS8uK2t6Xs0q2,151173,FALSE,42
+596,Adore You,Harry Styles,"['dance pop', 'pop', 'post-teen pop']",1M4qEo4HE3PRaCOM7EXNJq,207133,FALSE,91
+597,Adore You,Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",5AnCLGg35ziFOloEnXK4uu,278746,FALSE,72
+598,Adore,Cashmere Cat Featuring Ariana Grande,"['downtempo', 'edm', 'electronic trap', 'electropop', 'pop', 'post-teen pop', 'shiver pop']",34HwOOG2tTiz6tAN9h83YT,216000,FALSE,59
+599,Adorn,Miguel,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",25cUhiAod71TIQSNicOaW3,193146,FALSE,67
+600,Adrenalina,Wisin Featuring Jennifer Lopez & Ricky Martin,"['latin', 'latin hip hop', 'latin pop', 'reggaeton', 'reggaeton flow', 'tropical']",2eqDUxbd0JPEhNrJdPlHLs,235546,FALSE,65
+601,Adrienne,Tommy James,"['brill building pop', 'bubblegum pop', 'classic garage rock', 'classic rock', 'folk rock', 'mellow gold', 'merseybeat', 'rock', 'rock-and-roll', 'soft rock']",6RO88wRonG2HXjcuXsWY1x,161266,FALSE,13
+602,Adult Education,Daryl Hall John Oates,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",3sIsG7vDZr17BVimMeZZQS,323613,FALSE,49
+603,Adventure Of A Lifetime,Coldplay,"['permanent wave', 'pop']",69uxyAqqPIsUyTO8txoP2M,263786,FALSE,75
+604,Advice For The Young At Heart,Tears For Fears,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'soft rock', 'synthpop']",3BjD16l0CBQxUvcRI7vLWN,290640,FALSE,58
+605,Aerials,System Of A Down,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",4e9eGQYsOiBcftrWXwsVco,235053,FALSE,75
+606,Affair Of The Heart,Rick Springfield,"['album rock', 'australian rock', 'bubblegum pop', 'classic rock', 'dance rock', 'mellow gold', 'new wave pop', 'pop rock', 'rock', 'soft rock', 'yacht rock']",6sQhzyoKVtjB1xohOJRt06,226760,FALSE,32
+607,Afire Love,Ed Sheeran,"['pop', 'uk pop']",12B0Twa9kRz45Xw2PgXHJm,314280,FALSE,64
+608,Afraid To Sleep,Vicci Martinez,"['deep talent show']",06Km3ZJ7x5Bbw6BzwvKNgq,200773,FALSE,10
+609,Africa,Toto,"['album rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",2374M0fQpWi3dLnB54qaLX,295893,FALSE,84
+610,Africa,Weezer,"['alternative rock', 'modern rock', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",3ZPKocroJIcnHGcnJVlLKD,238626,FALSE,66
+611,Afrikaan Beat,Bert Kaempfert And His Orchestra,"[]",6VCeTm0H5ShF688xcrksaX,146106,FALSE,17
+612,Afro Puffs,The Lady Of Rage,"['g funk', 'gangster rap']",287tdUcso07UAu5jxXB2BQ,288333,TRUE,50
+613,"After 12 Before 6",Sam Salter,"['new jack swing', 'r&b']",4Sv6Wz0s7RGTVWvLUy0MC2,267160,FALSE,28
+614,After A Few,Travis Denning,"['contemporary country', 'country pop']",1z6wl2rwKatfmza6usanWw,213493,FALSE,65
+615,"After All (Love Theme From ""Chances Are"")",Cher & Peter Cetera,"['dance pop', 'hollywood', 'new wave pop', 'pop']",0ACu78PvVsOFYIKgRkKbGZ,244360,FALSE,63
+616,After All This Time,Merry Clayton,"['classic soul']",202Rv6z4W2aE0rxYwUfCq9,190346,FALSE,17
+617,After All,Al Jarreau,"['adult standards', 'jazz funk', 'quiet storm', 'smooth jazz', 'soft rock', 'vocal jazz', 'yacht rock']",5g5EdgkfKVUceOTJtm0Kel,259533,FALSE,52
+618,After Dark,Drake Featuring Static Major & Ty Dolla $ign,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",3mvYQKm8h6M5K5h0nVPY9S,289560,TRUE,66
+619,After Hours,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",2p8IUWQDrpjuFltbdgLOag,361026,FALSE,77
+620,After Midnight,Blink-182,"['pop punk', 'punk', 'socal pop punk']",27H8WsrkD5catdc3a2fCLV,206866,FALSE,54
+621,After Midnight,Eric Clapton,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold', 'rock', 'soft rock']",27mdmXNcO0gNpXlrWi9DPZ,171013,FALSE,42
+622,After Midnight,J.J. Cale,"['blues', 'blues rock', 'classic rock', 'folk rock', 'mellow gold', 'modern blues', 'rock', 'roots rock']",1PC5GV3OaoXx5em8ttQOMI,143693,FALSE,63
+623,After Midnight,Maggie Bell,"[]",1pMrYHgGrE9BjBWKpKKeQq,158160,FALSE,12
+624,After Party,Don Toliver,"['rap', 'trap']",527k23H0A4Q0UJN3vGs0Da,167915,TRUE,82
+625,After Party,Koffee Brown,"['neo soul', 'new jack swing', 'r&b', 'urban contemporary']",5cvMzT7kEvcxcdtcJz1vQY,214560,TRUE,53
+626,After The Dance,Marvin Gaye,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm', 'soul']",0m6i2lZNgIV4OOyEkFlKFz,279760,FALSE,43
+627,After The Fall,Journey,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",0PEnPV6UkHvvydYjXDqkNM,300960,FALSE,44
+628,After The Fire Is Gone,Conway Twitty & Loretta Lynn,"['arkansas country', 'country', 'country rock']",20DVVHFczaYBWhJ8utqmHb,157293,FALSE,36
+629,After The Fire,Roger Daltrey,"['album rock']",5WegjOIvnpNoX6uHtc8zyl,276066,FALSE,26
+630,After The Glitter Fades,Stevie Nicks,"['album rock', 'heartland rock', 'mellow gold', 'rock']",5VwqMbGWS17d7niP4Hs5GW,210466,FALSE,39
+631,After The Goldrush,Prelude,"[]",0fkx1Gu0Iep5bKeNiJ8Qfi,127173,FALSE,30
+632,After The Love Has Gone,"Earth, Wind & Fire","['disco', 'funk', 'jazz funk', 'motown', 'quiet storm', 'soul']",3cfnGXJ9bmiWvFqEO6ff8B,278040,FALSE,67
+633,After The Lovin',Engelbert Humperdinck,"['adult standards', 'brill building pop', 'easy listening', 'lounge']",7N25xNY1ap5wrSKzlbXd0B,234373,FALSE,47
+634,After The Rain,Nelson,"['classic country pop', 'country', 'nashville sound', 'outlaw country', 'singer-songwriter', 'texas country']",3VWGHiQO7fArciqoKB2DSx,245862,FALSE,47
+635,After You,Dionne Warwick,"['adult standards', 'brill building pop', 'disco', 'lounge', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",5Cxv11eVuzxA2uQGlEIitQ,241440,FALSE,23
+636,Afterglow,Ed Sheeran,"['pop', 'uk pop']",0E4Y1XIbs8GrAT1YqVy6dq,185486,FALSE,84
+637,Afterglow,Taylor Swift,"['dance pop', 'pop', 'post-teen pop']",1SymEzIT3H8UZfibCs3TYi,223293,FALSE,74
+638,Afternoon Delight,Starland Vocal Band,"['bubblegum pop', 'soft rock']",62hzQs9ygiEgudeWCUHcuJ,219673,FALSE,17
+639,Afternoons & Coffeespoons,Crash Test Dummies,"['canadian rock', 'pop rock']",21qfURxhcUJeeKKzB132ze,235933,FALSE,40
+640,Again And Again,Jewel,"['alaska indie', 'lilith', 'permanent wave', 'pop rock', 'singer-songwriter']",0eqegAaplGBvg5jFjosHgb,236173,FALSE,30
+641,Again Tonight,John Mellencamp,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",1UyrQJQQ4yynQugmLAbjoT,197693,FALSE,34
+642,Again,Faith Evans,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",17Yws6NV4W7lAGPtq4UPIT,198786,FALSE,28
+643,Again,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",3ESSGgWzRf1xvP7G5hHMhB,312240,TRUE,70
+644,Again,Janet Jackson,"['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",1GrikfH0jDejDvrxo84n4P,301200,FALSE,68
+645,Again,Lenny Kravitz,"['permanent wave', 'pop rock', 'rock']",5c1QJAiC3773EwiZLwHf5x,231666,FALSE,68
+646,Against All Odds (Take A Look At Me Now),Phil Collins,"['mellow gold', 'soft rock']",63CHa6rmamv9OsehkRD8oz,206360,FALSE,75
+647,Against The Wind,Bob Seger,"['album rock', 'classic rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",1SWmFiFSIBoDbQJjNKC7SR,333720,FALSE,63
+648,Age Ain't Nothing But A Number,Aaliyah,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",2hMk3VNicbCoV8I81m7Z3q,253960,FALSE,52
+649,Ah! Leah!,Donnie Iris,"['album rock']",3ifaGhNHnCPQ9zdnOfolcZ,222533,FALSE,52
+650,"Ahab The Arab",Ray Stevens,"['bubblegum pop', 'comic', 'country rock', 'novelty']",792qsDAf2ScTLCVjXS6HwB,262333,FALSE,34
+651,Ai Se Eu Te Pego,Michel Telo,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",46aIq2GKW7Vr6i4g2Vvycd,170493,FALSE,65
+652,Aiming At Your Heart,The Temptations,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown', 'soul']",7rrPu2pv3mEw0gNP1Juwcd,360640,FALSE,17
+653,Ain't 2 Proud 2 Beg,TLC,"['atl hip hop', 'dance pop', 'girl group', 'hip hop', 'hip pop', 'new jack swing', 'pop', 'pop rap', 'r&b', 'urban contemporary']",5kVSEpbyuLIVuPM1i2KivC,336560,FALSE,49
+654,Ain't Always The Cowboy,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",77XoAnllT85lmR9WP0D8dS,220880,FALSE,68
+655,Ain't Back Yet,Kenny Chesney,"['contemporary country', 'country', 'country road']",5jjoS9t9LgIsSGbVrtoKR7,239813,FALSE,41
+656,Ain't Easy,YoungBoy Never Broke Again,"['baton rouge rap', 'trap']",485RHcQUM5qotAlfutUhwT,145851,TRUE,52
+657,Ain't Even Done With The Night,John Cougar,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",4z8D58IC56O0JH2B818SkX,279066,FALSE,57
+658,Ain't Gonna Be That Way,Marv Johnson,"['motown', 'rhythm and blues']",0ZWqVaUbxHvCsIPPhQvbft,150093,FALSE,1
+659,Ain't Gonna Bump No More (with No Big Fat Woman),Joe Tex,"[]",0XXjBRi5sNWojqxmYJGiA2,403640,FALSE,33
+660,Ain't Gonna Eat Out My Heart Anymore,Angel,"['alternative americana', 'art pop', 'chamber pop', 'chamber psych', 'dream pop', 'electropop', 'freak folk', 'indie pop', 'indie rock']",7ncIYb0xb57bSgYllscI0f,172333,FALSE,10
+661,Ain't Gonna Kiss Ya,The Ribbons,"[]",3dsUBREw7qg7VnT736SbNy,144146,FALSE,4
+662,Ain't Gonna Lie,Keith,"['australian country', 'contemporary country', 'country', 'country road']",2HcT0IGf27ov1w9ncWtij6,181306,FALSE,13
+663,Ain't Gonna Rest (Till I Get You),The Five Stairsteps,"['chicago soul', 'classic soul', 'motown', 'soul']",2c3icRUTCk1STapXM1UJbB,157800,FALSE,11
+664,Ain't Gonna' Hurt Nobody,Brick,"['modern alternative rock', 'modern rock']",2gdmo3ULjoHN3iDsufbvPG,235333,FALSE,44
+665,Ain't Got No Home,The Band,"['electropop', 'hopebeat', 'indie pop', 'indie poptimism', 'indiecoustica', 'indietronica', 'modern rock', 'neo mellow', 'pop', 'pop rock', 'stomp and holler']",3zJgt8DyC6ypyDnlrxUV8H,204666,FALSE,31
+666,Ain't It A Sad Thing,R. Dean Taylor,"['classic uk pop', 'motown', 'northern soul']",3aQf3GpxbiJWA0VgH3ayKU,148026,FALSE,3
+667,Ain't It A Shame,Major Lance,"['beach music', 'chicago soul', 'classic soul', 'motown', 'northern soul', 'rhythm and blues', 'soul']",5UrPacEd3L8dsjwSNPDL2d,124533,FALSE,11
+668,Ain't It Funny,Jennifer Lopez Featuring Ja Rule,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'urban contemporary']",5ahFyKndeg1hqfmNumL3WF,229800,FALSE,58
+669,Ain't It Fun,Paramore,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']",1j8z4TTjJ1YOdoFEDwJTQa,296520,FALSE,74
+670,Ain't It The Truth,Mary Wells,"['brill building pop', 'classic soul', 'funk', 'motown', 'rhythm and blues', 'soul', 'southern soul']",58p1pH8V4ZLfJ1RusdeUIk,166493,FALSE,16
+671,"Ain't It Baby",The Miracles,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",14WPjMgMJfsxSaz3dm9KwQ,155240,FALSE,7
+672,Ain't I,Yung L.A. Featuring Young Dro & T.I.,"['atl hip hop', 'dirty south rap', 'southern hip hop', 'trap']",6cnufgF6qLJGZT2PRFZBr1,252093,TRUE,49
+673,Ain't Leavin Without You,Jaheim,"['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",7nkIQ02m4KItFfDfWrEApi,200613,FALSE,43
+674,Ain't Love A Bitch,Rod Stewart,"['adult standards', 'mellow gold', 'soft rock']",12myqPkW3bmux5bPISk9GC,279706,FALSE,28
+675,Ain't My Fault,Zara Larsson,"['dance pop', 'edm', 'pop', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']",0ADG9OgdVTL7fgREP75BrZ,224030,FALSE,71
+676,Ain't No Love In The Heart Of The City,Bobby Bland,"['blues', 'electric blues', 'soul', 'soul blues', 'southern soul']",4qYHnP5AmKzXbJhciPV8si,233560,FALSE,59
+677,Ain't No Mountain High Enough,Diana Ross,"['adult standards', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",1KbuhBnzMHp4eq1q6flhWd,215200,FALSE,61
+678,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm', 'soul']",7tqhbajSfrz2F7E1Z75ASX,151666,FALSE,81
+679,Ain't No Other Man,Christina Aguilera,"['dance pop', 'pop', 'post-teen pop', 'r&b']",7huo2wvrCgRucUsjdSDLQV,228906,FALSE,62
+680,Ain't No Playa,Rappin' 4-Tay,"['g funk', 'gangster rap', 'hyphy']",3Mu5nGJNRiDWdFgHV3OuIo,302360,TRUE,23
+681,Ain't No Rest For The Wicked,Cage The Elephant,"['garage rock', 'indie pop', 'indie rock', 'modern rock', 'punk blues', 'rock']",3Pzh926pXggbMe2ZpXyMV7,175493,FALSE,75
+682,Ain't No Stoppin' Us Now,McFadden & Whitehead,"['disco', 'philly soul', 'post-disco', 'quiet storm']",6EOdY7I7Xm1vPP1cyaGbWZ,220866,FALSE,57
+683,Ain't No Stopping Us Now,Kane Brown,"['contemporary country', 'country road']",2I5ao7JannZZMlweLTz0hO,182720,FALSE,54
+684,Ain't No Sunshine,Bill Withers,"['classic soul', 'funk', 'motown', 'quiet storm', 'soul']",1k1Bqnv2R0uJXQN4u6LKYt,125093,FALSE,77
+685,Ain't No Telling,Bobby Bland,"['blues', 'electric blues', 'soul', 'soul blues', 'southern soul']",603aCBXRNkrSTiM4uRGkbj,148160,FALSE,2
+686,Ain't No Way To Treat A Lady,Helen Reddy,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'country rock', 'folk', 'mellow gold', 'soft rock']",6eVAEqfTAe6FmPcwY7hhnG,208760,FALSE,30
+687,Ain't No Way,Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",3BucMqBqIR5Aw7MrUkF00y,254399,FALSE,50
+688,Ain't No Woman (Like The One I've Got),Four Tops,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",6q8NBpF6twALMb86FBpLgQ,187773,FALSE,49
+689,Ain't Nobody Home,B.B. King,"['blues', 'blues rock', 'classic rock', 'electric blues', 'jazz blues', 'soul blues', 'traditional blues']",3hCIZ8sgJm5MUh7ulehPGX,299533,FALSE,44
+690,Ain't Nobody Home,Howard Tate,"['southern soul']",13t4VV3Y9PBk0OnAAw03WT,146826,FALSE,8
+691,Ain't Nobody Like You,Miki Howard,"['funk', 'neo soul', 'new jack swing', 'post-disco', 'quiet storm', 'r&b', 'urban contemporary']",4ceQKHtNjYa3f3zwEDYY7q,295373,FALSE,30
+692,Ain't Nobody,Chaka Khan,"['dance pop', 'disco', 'funk', 'motown', 'neo soul', 'post-disco', 'quiet storm', 'soul', 'urban contemporary']",2NVpYQqdraEcQwqT7GhUkh,280853,FALSE,71
+693,Ain't Nobody,Diana King,"['reggae fusion']",67EJJfVy93Hlyo3Z742Ka7,321906,FALSE,29
+694,Ain't Nothing 'Bout You,Brooks & Dunn,"['contemporary country', 'country', 'country road', 'country rock']",2BPiamp7M8ARGtxjNyTZWf,241093,FALSE,58
+695,Ain't Nothing Like The Real Thing,Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",2ZLTVGtWmEnuWzTmFPSyvz,229960,FALSE,21
+696,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,"['chicago soul', 'classic soul', 'funk', 'motown', 'neo soul', 'quiet storm', 'soul', 'southern soul', 'vocal jazz']",3s0D8NiqXmaZdINIojlvJF,142240,FALSE,14
+697,Ain't Nothing Like The Real Thing,Marvin Gaye & Tammi Terrell,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm', 'soul']",37soQoNhEEIrhhYgHWK1xU,138533,FALSE,53
+698,Ain't Nothing You Can Do,Bobby Bland,"['blues', 'electric blues', 'soul', 'soul blues', 'southern soul']",5IZln657niIZ1muB2uCkek,148400,FALSE,23
+699,Ain't Seen Love Like That,Mr. Big,"['album rock', 'glam metal', 'hard rock', 'rock']",0Np00vOtVvqZpHqEyYylAs,211573,FALSE,31
+700,Ain't She Sweet,The Beatles,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",3OUpVpFeNx5jeInhHqiNfs,133346,FALSE,45
+701,Ain't So Easy,David & David,"['dance pop', 'edm', 'pop']",5UqVGRsDTAwBMTnCyscEdT,290493,FALSE,25
+702,Ain't That A Groove (Part 1),James Brown And The Famous Flames,"['motown', 'soul']",71PHf4hLbw4LnQ02N8Gx7h,213440,FALSE,23
+703,Ain't That A Shame!,The 4 Seasons,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'motown', 'northern soul', 'rock-and-roll']",3rp5zzMbbbz71pw5Yh2lnq,156546,FALSE,28
+704,Ain't That A Shame,Cheap Trick,"['album rock', 'art rock', 'classic rock', 'dance rock', 'glam metal', 'glam rock', 'hard rock', 'heartland rock', 'mellow gold', 'new wave pop', 'pop rock', 'power pop', 'rock', 'soft rock']",7ej76VUd7UrJv6k11GGByI,309266,FALSE,37
+705,Ain't That Enough For You,John Davis And The Monster Orchestra,"['deep disco']",0m49uL9sFqcr7r0Rq8P1zP,537946,FALSE,24
+706,Ain't That Just Like A Woman,Fats Domino,"['adult standards', 'brill building pop', 'louisiana blues', 'lounge', 'new orleans blues', 'piano blues', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",3GK5ETquucGLxWBrzBY9nY,162533,FALSE,7
+707,Ain't That Just Like Me,The Searchers,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'folk rock', 'merseybeat', 'rock-and-roll', 'rockabilly']",3OHz1Hr64jByifpOS61exg,145226,FALSE,14
+708,Ain't That Just The Way,Lutricia McNeal,"[]",6OmIDgADWwbBCuGNnd9jDj,215600,FALSE,42
+709,Ain't That Love,Four Tops,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",67SVvBhxFzSZiNoCGOfdTe,146666,FALSE,1
+710,Ain't That Loving You (For More Reasons Than One),Isaac Hayes & David Porter,"['classic soul', 'disco', 'funk', 'jazz funk', 'memphis soul', 'motown', 'quiet storm', 'soul', 'southern soul']",18zKxJIMjdfHjAXMdTXdNJ,261880,FALSE,11
+711,Ain't That Loving You (For More Reasons Than One),Luther Ingram,"['classic soul', 'memphis soul', 'southern soul']",49IQpipnAdKebfTwJRJrtM,250973,FALSE,19
+712,Ain't That Loving You Baby,Elvis Presley,"['adult standards', 'rock-and-roll', 'rockabilly']",1puwYWRSG7g0d8ChPmOV6t,143013,FALSE,27
+713,Ain't That Peculiar,Fanny,"['colombian pop', 'cumbia', 'ecuadorian pop', 'latin', 'latin pop', 'latin viral pop', 'pop reggaeton', 'tropical']",4RAS6QT974bl5blsapzVGq,245800,FALSE,32
+714,Ain't That Peculiar,Marvin Gaye,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm', 'soul']",1yyJNEU2gWG6QiJkhPwrde,179693,FALSE,47
+715,Ain't Too Proud To Beg,Rick Astley,"['dance pop', 'dance rock', 'europop', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",1j0q1Ljv4gdFYiwtw3vGPU,258133,FALSE,30
+716,Ain't Too Proud To Beg,The Rolling Stones,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",657o30OsXhfnfi3IoWHprm,210560,FALSE,38
+717,Ain't Too Proud To Beg,The Temptations,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown', 'soul']",4CoGNqLap7UGU5Q3VdKug0,156173,FALSE,67
+718,Ain't Understanding Mellow,Jerry Butler & Brenda Lee Eager,"['beach music', 'chicago soul', 'classic soul', 'motown', 'philly soul', 'quiet storm', 'rhythm and blues', 'soul']",5ehrJB4xFea5kph6jVoWtS,260333,FALSE,38
+719,Ain't Wastin' Time No More,The Allman Brothers Band,"['album rock', 'blues rock', 'classic rock', 'country rock', 'electric blues', 'folk rock', 'hard rock', 'jam band', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'southern rock']",4euYSSvpQZSAQ4gThyL2QD,221890,FALSE,57
+720,Ain't Worried About Nothin,French Montana,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",0UAmPUdpTRq8w54B3H8TzY,212426,TRUE,48
+721,Ain't Worth The Whiskey,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",3OZVqx1YsqDDkxQ6TnmHtn,191906,FALSE,61
+722,Ain't Your Mama,Jennifer Lopez,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'urban contemporary']",2hgzdQdnfWwtdpZbhZlV72,218234,FALSE,72
+723,Air Disaster,Albert Hammond,"['dance-punk', 'garage rock', 'indie pop', 'indie rock', 'modern rock', 'punk blues', 'rock']",4Kcn3bOKxqVpSka7XMhSHN,218866,FALSE,40
+724,Air Force Ones,"Nelly Featuring Kyjuan, Ali & Murphy Lee","['dance pop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'urban contemporary']",7kAFSrTIOiVZ0gnHBuAH3l,304000,TRUE,62
+725,Airplanes,B.o.B Featuring Hayley Williams,"['atl hip hop', 'dance pop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop']",6lV2MSQmRIkycDScNtrBXO,180480,TRUE,76
+726,Ajax Airlines,Hudson and Landry,"[]",7hRu0zfGU7b9JX7frtM69m,239893,FALSE,5
+727,Ajax Liquor Store,Hudson and Landry,"[]",50i7iJSGaM1aOb2ZZd1iCD,174826,FALSE,8
+728,Al Di La',Emilio Pericoli,"[]",2EFuKrTmy6wCB9C7Bvyyia,197137,FALSE,36
+729,Al Di La,Connie Francis,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly']",4kOlKSR11PMW8ZccQNCCVy,199773,FALSE,28
+730,Alabama Getaway,Grateful Dead,"['classic rock', 'cosmic american', 'folk rock', 'jam band', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock']",5WVF1Ftv5oxspRac9km99R,216569,FALSE,47
+731,Alabama Wild Man,Jerry Reed,"['comic', 'country', 'country rock']",2KBUC04CQTAfgEM0T2FBix,161986,FALSE,24
+732,Alabam,Cowboy Copas,"['honky tonk']",6x8EqpeM8XzeoEKfatpSYP,139906,FALSE,27
+733,Aladdin,Bobby Curtola,"['deep adult standards']",5VsIsLz4LWBKwmsrHayGLt,129800,FALSE,11
+734,Album Of The Year (Freestyle),J. Cole,"['conscious hip hop', 'hip hop', 'nc hip hop', 'pop rap', 'rap']",6rDaCGqcQB1urhpCrrD599,138872,TRUE,65
+735,Alcohol,Brad Paisley,"['contemporary country', 'country', 'country road']",5wKaxpvqXq95IaoAVPLgoi,290933,FALSE,53
+736,Alejandro,Lady Gaga,"['dance pop', 'pop']",4lwavw59UjXUPJZtKNdFYp,274213,FALSE,61
+737,Alfie,Cher,"['dance pop', 'hollywood', 'new wave pop', 'pop']",0u5J4IdTy7HSloMZSdsClZ,171426,FALSE,36
+738,Alfie,Cilla Black,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'merseybeat', 'rock-and-roll']",2IqtBxwRgNOt7YWMmulrUZ,159760,FALSE,36
+739,Alfie,Dionne Warwick,"['adult standards', 'brill building pop', 'disco', 'lounge', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']",5eeZr5k6eprE1NToNTZuxs,165306,FALSE,34
+740,Alibis,Sergio Mendes,"['bossa nova', 'brazilian jazz', 'samba']",5t8YfppCGP89RcJrjs4Ybj,242706,FALSE,28
+741,Alibis,Tracy Lawrence,"['arkansas country', 'contemporary country', 'country', 'country road', 'country rock']",1Mew3ipJFmRpSj83LRyxod,182960,FALSE,53
+742,Alice In Wonderland,Neil Sedaka,"['adult standards', 'brill building pop', 'bubblegum pop', 'lounge', 'mellow gold', 'rockabilly', 'soft rock']",6ud44OoRGtmMAkQQVkEgZt,151333,FALSE,22
+743,Alice Long (You're Still My Favorite Girlfriend),Tommy Boyce & Bobby Hart,"['brill building pop', 'bubblegum pop']",4eM7bZnwoRQbVXktBxwlXa,171240,FALSE,16
+744,Alice,Avril Lavigne,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",4gLVsEaNMpzkCAM0hXgDoi,300986,FALSE,55
+745,Alice,Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",41A89rj3GoMG6ktN37L7PG,177600,FALSE,66
+746,Alien,Atlanta Rhythm Section,"['album rock', 'art rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'southern rock', 'yacht rock']",7DZQd335o3GLCJhkqUox4I,294400,FALSE,35
+747,Alive & Kicking,Simple Minds,"['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']",2x5IXUFOcvvBUtEpnCBNlp,289453,FALSE,65
+748,Alive Again,Chicago,"['adult standards', 'album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",69kBU36OR6j8apeZhQIPcu,247960,FALSE,20
+749,Alive,Bee Gees,"['adult standards', 'disco', 'mellow gold', 'soft rock']",3mRM4NM8iO7UBqrSigCQFH,285373,FALSE,78
+750,Alive,Krewella,"['big room', 'brostep', 'catstep', 'dance pop', 'edm', 'electra', 'electro house']",2SHnUyZq0zwmvRIl4WY77G,290760,FALSE,57
+751,Alive,P.O.D.,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rap rock']",1X4Ntw6Lbaa1ACgilCqMpr,205026,FALSE,64
+752,Alive,Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",25R5Tdr4K7ENb6umHzdCXn,263520,FALSE,66
+753,All 4 Love,Color Me Badd,"['boy band', 'new jack swing', 'r&b', 'urban contemporary']",4XmsMIMjvDIFEjeY3ycMzW,211493,FALSE,52
+754,All About It,Hoodie Allen Featuring Ed Sheeran,"['indie pop rap', 'pop rap']",2rvHIXjN4TCFuFLZk3qAxn,205733,TRUE,47
+755,All About My Girl,Jimmy McGriff,"['hammond organ', 'jazz funk', 'jazz organ', 'soul jazz']",4Mrfq1W2qM2BGuIm1JSrLP,236133,FALSE,20
+756,All About Soul,Billy Joel,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",00p615Q4EFYMIAr055wqRu,361306,FALSE,47
+757,All About That Bass,Meghan Trainor,"['dance pop', 'hip pop', 'pop', 'post-teen pop']",5jE48hhRu8E6zBDPRSkEq7,187920,TRUE,71
+758,All About Tonight,Blake Shelton,"['contemporary country', 'country', 'country road', 'oklahoma country']",5cQIrML7iJEUsOCNsHqWlB,205613,FALSE,47
+759,All Alone Am I,Brenda Lee,"['adult standards', 'brill building pop']",4tMnrDxy7Vmv7HyK3ZTO2w,166573,FALSE,49
+760,All Along The Watchtower,The Jimi Hendrix Experience,"[]",6LEXD2N3PxSmu4BMUHjaTb,284146,FALSE,2
+761,All Along,Blessid Union Of Souls,"['cowpunk', 'neo mellow', 'pop rock', 'post-grunge']",4BWAfHcuiNeOW2DrtP6RbD,234706,FALSE,17
+762,All American Girls,Sister Sledge,"['dance pop', 'disco', 'disco house', 'funk', 'philly soul', 'post-disco', 'quiet storm', 'soul']",28gKFaRNe013GtaKLtiHbH,283826,FALSE,44
+763,All Around Me,Flyleaf,"['alternative metal', 'christian alternative rock', 'christian rock', 'nu metal', 'pop emo', 'post-grunge']",1zN6ynJG4PdR61YWv4PQ3Y,198506,FALSE,62
+764,All Around Me,Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",5Py8zRKGkZvgHniVVtvNCN,136906,FALSE,65
+765,All Around The World,Justin Bieber Featuring Ludacris,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",1Mg8vLBYwizu7AuhYQO64V,244546,FALSE,64
+766,All Around The World,Lisa Stansfield,"['british soul', 'dance pop', 'disco', 'new wave pop', 'soft rock']",0piPn2zyL4Yi60ml53qNXE,268293,FALSE,50
+767,All Bad,Justin Bieber,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",3JNEXPTnSxqlxNqhTW61D2,182746,FALSE,50
+768,All Because Of You,Marques Houston Featuring Young Rome,"['dance pop', 'deep pop r&b', 'hip pop', 'new jack swing', 'pop rap', 'r&b', 'urban contemporary']",43PXNweF6u0LS9N6czAY0M,212013,FALSE,41
+769,All By Myself,Celine Dion,"['canadian pop', 'dance pop']",0gsl92EMIScPGV1AU35nuD,312306,FALSE,67
+770,All By Myself,Eric Carmen,"['adult standards', 'album rock', 'bubblegum pop', 'country rock', 'disco', 'mellow gold', 'new wave pop', 'soft rock', 'yacht rock']",0AQqrtK1pULuwZUXhwaaDz,430000,FALSE,64
+771,All By Myself,Glee Cast,"['glee club', 'hollywood', 'post-teen pop']",37JZpX7LIxgUoOLU2umng2,247306,FALSE,39
+772,All Cried Out,Allure Featuring 112,"[]",1DViQw0p1vo0eAMRlUF4Lr,275773,FALSE,42
+773,All Cried Out,Dusty Springfield,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'lounge', 'mellow gold', 'motown', 'rock', 'soul', 'vocal jazz']",5kSEYDFCbFH0kxMwLh4iVx,181866,FALSE,9
+774,All Cried Out,Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou,"[]",0046quUYhSAFccrKIC3Iht,284973,FALSE,39
+775,All Da Smoke,Future & Young Thug,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",1wWRtPIKD7ZNvtsrzLyTev,204960,TRUE,57
+776,All Day And All Of The Night,The Kinks,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",78JmElAFmrPNhLjovDR9Jm,141506,FALSE,70
+777,All Day Long,Chance The Rapper Featuring John Legend,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']",1g3ErLqysBJ5EIGdYYMWFZ,208238,FALSE,67
+778,All Day Music,War,"['garage rock', 'indie pop', 'indie rock', 'modern rock', 'piano rock', 'rock', 'stomp and holler']",6nOgfdfLQ6ZzlRMTqiqQlt,243866,FALSE,43
+779,All Day,"Kanye West Featuring Theophilus London Allan Kingdom & Paul McCartney","['chicago rap', 'rap']",79reBHqpRoWXaQbjBBY3UC,310906,TRUE,63
+780,All Eyes On You,Meek Mill Featuring Chris Brown & Nicki Minaj,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",0hy1SOTEn9ifXTzOwnCwEr,223973,TRUE,71
+781,All Eyez On Me,Monica,"['dance pop', 'deep pop r&b', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop rap', 'quiet storm', 'r&b', 'urban contemporary']",0rHehT9M8peRzeV1O1FeOk,238773,FALSE,36
+782,All Eyez,The Game Featuring Jeremih,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",3JEzGRDUsozrehZTq3dKE8,215297,TRUE,59
+783,All Fall Down,Five Star,"['modern uplift']",3sNNxTQprci6YQno1ftNEy,212306,FALSE,26
+784,All Falls Down,Kanye West Featuring Syleena Johnson,"['chicago rap', 'rap']",5SkRLpaGtvYPhw02vZhQQ9,223506,TRUE,73
+785,All Fired Up,Pat Benatar,"['album rock', 'classic rock', 'dance rock', 'heartland rock', 'mellow gold', 'new wave pop', 'rock', 'soft rock']",6XpczhG192lULA9i4JLqKJ,272200,FALSE,50
+786,All For One,High School Musical 2 Cast,"[]",5SWfocxhAkjf3eg4lrv8vZ,253786,FALSE,54
+787,All For You,Janet,"['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",28IZUzBnFsBxyrgdsdlQPg,272386,FALSE,57
+788,All For You,Sister Hazel,"['acoustic pop', 'neo mellow', 'pop rock', 'post-grunge']",2skmOCFU64Bg7Ytkgwliwe,218706,FALSE,64
+789,All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap']",4VXIryQMWpIdGgYR4TrjT1,165819,TRUE,88
+790,All Gold Everything,Trinidad James,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",0pgeVJrdNok4KhbiM58ayZ,187906,TRUE,58
+791,All Good Things (Come To An End),Nelly Furtado,"['canadian latin', 'canadian pop', 'dance pop', 'pop', 'pop rap', 'pop rock']",6NyWT02RGO5OgT55JDjI08,311093,FALSE,46
+792,All Grown Up,The Crystals,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'motown', 'rock-and-roll', 'rockabilly']",63tX6UDIPVPu5nwCmV44K8,172093,FALSE,18
+793,All I Ask For Anymore,Trace Adkins,"['contemporary country', 'country', 'country road', 'country rock', 'modern country rock', 'redneck']",5ibdbHuXR3JAZj9KXgakr9,237213,FALSE,27
+794,All I Ask,Adele,"['british soul', 'pop', 'uk pop']",1wMALZpuqAy7amQsFBWQ8m,271800,FALSE,71
+795,All I Could Do Was Cry,Etta James,"['adult standards', 'jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",7Ca3Zb8wejNYCoei3tlJ9e,175626,FALSE,52
+796,All I Do Is Think Of You,Troop,"['boy band', 'funk', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",4XhrowM5IKGCRrY2HzYBH3,229053,FALSE,57
+797,All I Do Is Win,"DJ Khaled Featuring T-Pain Ludacris Snoop Dogg & Rick Ross","['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",6u5M4jPpYkoRV4vVHDQvkd,227293,TRUE,70
+798,All I Do,Somethin' For The People,"['new jack swing', 'r&b']",7gF0J2ixqSDWlOEDnQD1Wo,304360,FALSE,20
+799,All I Ever Need Is You,Sonny & Cher,"['deep groove house', 'deep house', 'disco house', 'house', 'uk dance']",359IJq43c4SVrf5ZeUDiFl,155293,FALSE,40
+800,All I Ever Wanted,Chuck Wicks,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",6RKrORavcsGPPrkRzkU14H,207333,FALSE,33
+801,All I Ever Wanted,Kelly Clarkson,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'talent show']",31wPF6zccO0cINHfUS7wWb,238190,FALSE,37
+802,All I Got,Rod Wave,"['florida rap']",4WjKemXvKTBbNFXZlQSxtf,193454,TRUE,64
+803,All I Have To Do Is Dream,Bobbie Gentry & Glen Campbell,"['brill building pop', 'country rock', 'folk', 'traditional folk']",3FUGhktHS6iEAReiDwXuqm,151933,FALSE,27
+804,All I Have To Do Is Dream,Richard Chamberlain,"[]",04uW2l7VrWeo3CJ9rQ5D6M,151733,FALSE,11
+805,All I Have To Do Is Dream,The Everly Brothers,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge', 'mellow gold', 'rock-and-roll', 'rockabilly', 'sunshine pop']",7dblNGnRXEBrVJunazs2U5,143333,FALSE,66
+806,All I Have To Give,Backstreet Boys,"['boy band', 'dance pop', 'pop']",3hlhefxgyp4MDnN6C2dQ5H,276573,FALSE,51
+807,All I Have To Offer You (Is Me),Charley Pride,"['classic country pop', 'country', 'country rock', 'nashville sound']",4kmTlqtjkxHdcratIAj5Uu,180933,FALSE,36
+808,All I Have,Jennifer Lopez Featuring LL Cool J,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'urban contemporary']",3kgutGd839IOYRl6ekeq6V,254466,FALSE,58
+809,All I Have,The Moments,"['classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",6szyOE3tMWE8jIukMNK8lY,231133,FALSE,18
+810,All I Know Is The Way I Feel,The Pointer Sisters,"['dance pop', 'dance rock', 'disco', 'europop', 'girl group', 'hi-nrg', 'mellow gold', 'motown', 'new wave pop', 'quiet storm', 'soft rock']",3zyJcxTj2VFMhPwQ1i7VW4,281400,FALSE,7
+811,All I Know So Far,P!nk,"['dance pop', 'pop', 'post-teen pop']",4LmN3eU1R1vVEdKuDELpGk,277413,TRUE,79
+812,All I Know,Garfunkel,"['folk', 'folk rock', 'melancholia', 'mellow gold', 'rock']",5VAw5AYO7FAPCdaRvAmiTY,230786,FALSE,42
+813,All I Know,The Weeknd Featuring Future,"['canadian contemporary r&b', 'canadian pop', 'pop']",0NWqNXBJTpXbkI5rPWNy3p,321026,TRUE,67
+814,All I Need Is A Miracle,Mike + The Mechanics,"['album rock', 'art rock', 'classic uk pop', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",1VKXBgsRK7lWDSVbfANlf3,252426,FALSE,48
+815,All I Need Is Time,Gladys Knight And The Pips,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul', 'southern soul']",1RfvX1pospYGxpvTBJ8I3d,269426,FALSE,5
+816,All I Need To Know,Bette Midler,"['adult standards', 'mellow gold', 'new wave pop', 'soft rock']",15SxIrjgS9YOkL49fsEcJK,248986,FALSE,9
+817,All I Need,Fat Joe Featuring Tony Sunshine & Armageddon,"['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'trap']",2ohHVfGDGcawWjx2KwP8dF,278626,TRUE,33
+818,All I Need,Jack Wagner,"[]",7LLBFAlUOE6rUHDePQL57a,209493,FALSE,41
+819,All I Need,The Temptations,"['adult standards', 'brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown', 'soul']",6mdLen2d7jtAzDig0GgKKA,190040,FALSE,27
+820,All I Really Want To Do,Cher,"['dance pop', 'hollywood', 'new wave pop', 'pop']",3u650FGOhGmw3EjkLCzSJd,179213,FALSE,39
+821,All I Really Want To Do,The Byrds,"['album rock', 'art rock', 'blues rock', 'brill building pop', 'bubblegum pop', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'traditional folk']",1MI0O2mwTpdwkZpfWz4J7o,123760,FALSE,36
+822,All I See Is You,Dusty Springfield,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'lounge', 'mellow gold', 'motown', 'rock', 'soul', 'vocal jazz']",7sQO3Qk91D68UZplWNNtvQ,204053,FALSE,8
+823,All I See Is Your Face,Dan Hill,"['adult standards', 'mellow gold', 'soft rock']",7hi9dxOuPmHnChT6SFjNWa,212120,FALSE,20
+824,All I See,A+,"[]",4bwT7ZhzMLdzzmWj5NOyuO,264733,FALSE,14
+825,All I Wanna Do Is Make Love To You,Heart,"['folk-pop', 'indie folk', 'indie pop', 'neo mellow', 'new americana', 'seattle indie', 'stomp and holler']",5YjKdeES9QRJ8NmF4Xc8pV,310893,FALSE,66
+826,All I Wanna Do,Sheryl Crow,"['folk', 'lilith', 'mellow gold', 'neo mellow', 'new wave pop', 'permanent wave', 'pop rock', 'rock']",3ZpQiJ78LKINrW9SQTgbXd,272106,FALSE,66
+827,All I Want For Christmas Is You (SuperFestive!),Justin Bieber Duet With Mariah Carey,"[]",1IUtgwxLYzDVd41EgbKUjX,240333,FALSE,76
+828,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'r&b', 'urban contemporary']",0bYg9bo50gSsH3LtXe2SQn,241106,FALSE,95
+829,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'r&b', 'urban contemporary']",0bYg9bo50gSsH3LtXe2SQn,241106,FALSE,97
+830,All I Want For Christmas Is You,Michael Buble,"['adult standards', 'canadian pop', 'lounge']",1FRqLI971CD1QedTiJeL3c,171826,FALSE,79
+831,All I Want Is You,Carly Simon,"['adult standards', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",6joaljcemJFCZi5zrg6Zf8,237693,FALSE,27
+832,All I Want Is You,Miguel Featuring J. Cole,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",5VA4Ispp52EA1sOqzMz3Av,295920,FALSE,64
+833,All I Want Is You,U2,"['irish rock', 'permanent wave', 'rock']",34sL4eaI8UKWOyYpCvoboU,389933,FALSE,63
+834,All I Want To Do,Sugarland,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",1mJ05BN0So26a14iib85aI,213360,FALSE,55
+835,All I Wanted,Kansas,"['album rock', 'art rock', 'bow pop', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",56Zbt8YXJgkeoVMdQLpfaW,201133,FALSE,24
+836,All I Want,Howard Jones,"['dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",70nB7hTC7FDiYoJp0TVwnp,275733,FALSE,18
+837,All I Want,Olivia Rodrigo,"['pop']",4Yxc55NX3tAXC2mHRAhtcW,177322,FALSE,81
+838,All I Want,Susanna Hoffs,"['lilith', 'new wave pop']",53m1rGnPJVtI0zUryVyL9N,198373,FALSE,9
+839,All I Want,Toad The Wet Sprocket,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'post-grunge', 'rock']",2GHYJ0dhVds3PODKnTdiGE,196333,FALSE,58
+840,All I'm Missing Is You,"Glenn Medeiros Featuring Ray Parker, Jr.","['soft rock']",161VLuQ9BzasINJUoX0sNZ,259733,FALSE,12
+841,All In Love Is Fair,Barbra Streisand,"['adult standards', 'hollywood', 'mellow gold', 'soft rock']",5M9TH1OD92fWsWqp5we4mY,229506,FALSE,26
+842,All In My Head (Flex),Fifth Harmony Featuring Fetty Wap,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'viral pop']",7nD9nN3jord9wWcfW3Gkcm,210573,FALSE,67
+843,All In My Mind,Maxine Brown,"['brill building pop', 'classic soul', 'motown', 'rhythm and blues', 'southern soul']",5hNgmiVNNQjgaoi7o5dwJR,154386,FALSE,30
+844,All In,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",1ZRjLZcNTm1vUgrexBp3px,156032,TRUE,62
+845,All In,YoungBoy Never Broke Again,"['baton rouge rap', 'trap']",7CdoE8U5DwrwCaLoyf3ME0,156662,TRUE,66
+846,All Jacked Up,Gretchen Wilson,"['contemporary country', 'country', 'country dawn', 'country road']",1B9FG4cLQujWD1NVMVbJwY,212520,FALSE,45
+847,All Kinds Of Kinds,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']",1ThdZzM4DCcNIRf9EyBMg5,266946,FALSE,45
+848,All Lips N' Hips,Electric Boys,"['funk metal', 'funk rock', 'glam metal', 'hard rock', 'modern hard rock', 'sleaze rock', 'swedish hard rock']",0x2lW60JnKE0oLkUP8kq8C,264826,FALSE,28
+849,All Me,Drake Featuring 2 Chainz & Big Sean,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",7y911sqgHGHcyU4ivapjwi,270866,TRUE,68
+850,All Mine,Kanye West,"['chicago rap', 'rap']",3U21A07gAloCc4P7J8rxcn,145506,TRUE,74
+851,All My Friends Say,Luke Bryan,"['contemporary country', 'country', 'country road']",539dFCMA8lfEElDPgGpcIB,242800,FALSE,59
+852,All My Friends,21 Savage,"['atl hip hop', 'pop rap', 'rap', 'trap']",4paAidoE8VAemwU4jgCc6l,211785,TRUE,73
+853,All My Hard Times,Joe Simon,"['classic soul', 'motown', 'philly soul', 'soul', 'southern soul']",2z0jmVPWo6XMZOpaGUuoxz,168506,FALSE,4
+854,All My Life,Foo Fighters,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",6tsojOQ5wHaIjKqIryLZK6,263440,FALSE,73
+855,All My Life,K-Ci & JoJo,"['dance pop', 'hip pop', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",5GorFaKkP2mLREQvhSblIg,331240,FALSE,72
+856,All My Life,Kenny Rogers,"['adult standards', 'classic country pop', 'country', 'mellow gold', 'nashville sound', 'soft rock']",3YWulDdpSxw6fKKLmUP2pa,233773,FALSE,27
+857,All My Life,Linda Ronstadt (Featuring Aaron Neville),"['adult standards', 'country rock', 'folk', 'folk rock', 'heartland rock', 'lilith', 'mellow gold', 'singer-songwriter', 'soft rock']",6mHrQvPTT3i4ZwwcR4gZR2,210960,FALSE,49
+858,All My Love,Queen Pen Featuring Eric Williams,"['hip pop', 'lgbtq+ hip hop']",1rlnJyBKqBSuSj3CQGngRg,204200,TRUE,35
+859,All My Loving,The Beatles,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",4joiWvli4qJVEW6qZV2i2J,127853,FALSE,69
+860,All My Trials,Ray Stevens,"['bubblegum pop', 'comic', 'country rock', 'novelty']",1Oxu4KhEB49VONzJJ5uXKo,179906,FALSE,6
+861,All Night Long (All Night),Lionel Richie,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm', 'soft rock']",2Wb9ejnmy27DUTUe9YF5Ew,260426,FALSE,65
+862,All Night Long,Billy Squier,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",5eqTvP4fooKYTc9LdmrpdT,288893,FALSE,27
+863,All Night Long,Faith Evans Featuring Puff Daddy,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",4Bh83s84d9YUiuLzeuF24N,234253,FALSE,43
+864,All Night Long,Sandy Nelson,"['rock-and-roll', 'space age pop', 'surf music']",6UPnYI7fl4kJngseOzbeBe,142640,FALSE,3
+865,All Night With Me,Laura Branigan,"['dance rock', 'europop', 'new romantic', 'new wave pop', 'soft rock', 'synthpop']",53AzqGDlUTHQX2nHPrcX9n,232106,FALSE,22
+866,All Night,Beyonce,"['dance pop', 'pop', 'pop rap', 'r&b']",7oAuqs6akGnPU3Tb00ZmyM,322000,FALSE,68
+867,All Nite,Entouch Featuring Keith Sweat,"[]",6q989QMsV87X9Em9J6DONi,368466,FALSE,13
+868,All Of Everything,Frankie Avalon,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'rock-and-roll']",0wyxCvfSYetkMHOVqjpnC1,151293,FALSE,6
+869,All Of Me,John Legend,"['neo mellow', 'neo soul', 'pop', 'r&b', 'urban contemporary']",3U4isOIWM3VvDubwSI3y7a,269560,FALSE,87
+870,All Of My Days,Changing Faces (Featuring Jay-Z),"['girl group', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",1kOFpvRGPlwq0hSyyCD92E,239453,FALSE,36
+871,All Of My Life,Lesley Gore,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'folk rock', 'motown', 'rock-and-roll']",6F6F3EX3FEntkWZKNjvEoL,149693,FALSE,13
+872,All Of My Love,Bobby Caldwell,"['yacht rock']",4rGHpDjGls5omPpsc3VVX6,210066,FALSE,13
+873,All Of The Lights,Kanye West,"['chicago rap', 'rap']",22L7bfCiAkJo5xGSQgmiIO,299613,TRUE,77
+874,All Of You,Julio Iglesias & Diana Ross,"['latin', 'latin pop']",6x1FtRaGBGXbRHcJh3rvYc,237493,FALSE,49
+875,All On Me,Devin Dawson,"['contemporary country', 'country pop', 'modern country rock']",2mfahQ0EaaZWq4cFNg6A1o,224626,FALSE,68
+876,All Or Nothing,Milli Vanilli,"['new jack swing']",7sS1P9f8SDyl03hqC1etWU,200600,FALSE,33
+877,All Or Nothing,O-Town,"['boy band', 'dance pop']",0WdaRmHBMhUoLPqHLdb9yg,248866,FALSE,53
+878,All Or Nothing,Theory Of A Deadman,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge', 'wrestling']",2ejt6exJRE2bXPfp37Xi8w,210560,FALSE,56
+879,All Out Of Love,Air Supply,"['adult standards', 'mellow gold', 'soft rock']",7dQC53NiYOY9gKg3Qsu2Bs,243000,FALSE,68
+880,All Over Again,Johnny Cash,"['arkansas country', 'outlaw country']",76CbOXTXJpDSKplGwgUHiB,132400,FALSE,35
+881,All Over Me,Josh Turner,"['contemporary country', 'country', 'country road', 'modern country rock']",1s8DkdE3uOWrGU7vonKrbK,199493,FALSE,43
+882,All Over The Road,Easton Corbin,"['contemporary country', 'country', 'country road', 'modern country rock']",6XD3HMATLswheYevIfKkSi,163066,FALSE,62
+883,All Over The World,Electric Light Orchestra,"['album rock', 'art rock', 'bow pop', 'classic rock', 'folk rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",7psAMS9VACNOP4kmPbRqXY,244760,FALSE,45
+884,All Over The World,Nat King Cole,"['adult standards']",0IIGck0Gbykh0ogz1MjGeC,144773,FALSE,7
+885,All Right Now,Free,"['alternative r&b', 'hip hop', 'indie soul']",1gcESexgftSuLuML57Y69q,330643,FALSE,72
+886,All Right Now,Lea Roberts,"[]",1h2h43TEGBiFKqfM8TnNol,193720,FALSE,9
+887,All Right Now,Rod Stewart,"['adult standards', 'mellow gold', 'soft rock']",3rQF4Tjg8S3qtwaX4ZOcIU,282266,FALSE,14
+888,All Right,Christopher Cross,"['adult standards', 'album rock', 'disco', 'folk rock', 'mellow gold', 'new wave pop', 'quiet storm', 'soft rock', 'yacht rock']",5tE2kEW1Jom3Qc93UPBT79,253653,FALSE,64
+889,All Roads (Lead Back To You),Donny Most,"[]",13zO7QWEvh430NfWlxqrcj,159426,FALSE,1
+890,All She Wants Is,Duran Duran,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",5Esa0Z29g7NbVw3kPDoWYV,274626,FALSE,30
+891,All She Wants to Do Is Dance,Don Henley,"['album rock', 'art rock', 'classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'new wave pop', 'pop rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'yacht rock']",4yCRCEAfCMRyqCpBSd0qDp,269106,FALSE,55
+892,All She Wrote,Firehouse,"['album rock', 'glam metal', 'hard rock', 'rock']",0oIbfeHdm2BmD1jWD29dQc,267426,FALSE,46
+893,"All Shook Up (From ""Honeymoon In Vegas"")",Billy Joel,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",3bUxhKMDYo6PU2rzaBattI,128800,FALSE,17
+894,All Shook Up,Suzi Quatro,"['classic uk pop', 'glam rock', 'soft rock']",0we3Dc7RJzORAX1U4E5sF0,230733,FALSE,31
+895,All Star,Smash Mouth,"['alternative rock', 'pop rock', 'post-grunge']",3cfOd4CMv2snFaKAnMdnvK,200373,FALSE,80
+896,All Strung Out On You,John Travolta,"['hollywood', 'pop']",7CmF7T1WPusOeZwTDf1lLY,210000,FALSE,0
+897,All Strung Out,Nino Tempo & April Stevens,"[]",7ki09wB8QGbf6TGrHl8nHl,183000,FALSE,11
+898,All Summer Long,Hit Masters,"[]",3XAUSzBhqBJocBlzVO2U6A,296333,FALSE,0
+899,All Summer Long,Kid Rock,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",5rX6C5QVvvZB7XckETNych,297586,FALSE,73
+900,All Summer Long,The Rock Heroes,"[]",0gTEBEvVYhVAbq0M7ZuWhe,296346,FALSE,6
+901,All That Glitters Isn't Gold,The Cover Girls,"['freestyle']",6HoFcVqhRM3JXfByq0t5go,350040,FALSE,14
+902,All That I Can Say,Mary J. Blige,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",6qgjAQbWw60HEuiZ5vM1Cc,330466,FALSE,38
+903,All That Matters,Justin Bieber,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']",70XP39KE8vTgxtRXcwfxJA,191173,FALSE,60
+904,All That She Wants,Ace Of Base,"['bubblegum dance', 'dance pop', 'eurodance', 'europop', 'hip house', 'pop rock']",6kWJvPfC4DgUpRsXKNa9z9,211213,FALSE,72
+905,All The Above,Maino Featuring T-Pain,"['pop rap', 'rap', 'trap']",1z667LebVh3DtYNrVJEao0,319940,TRUE,62
+906,All The Good Girls Go To Hell,Billie Eilish,"['electropop', 'pop']",6IRdLKIyS4p7XNiP8r6rsx,168839,FALSE,86
+907,All The Good Girls Go To Hell,Billie Eilish,"['electropop', 'pop']",6IRdLKIyS4p7XNiP8r6rsx,168839,FALSE,87
+908,All The Kids On The Street,The Hollywood Stars,"[]",1EeuFwQ7RhTNlPg69LGUxM,192400,FALSE,2
+909,All The Kings Horses,Aretha Franklin,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",4scnR2BdymYpgLzM9vH6Ra,236000,FALSE,26
+910,All The Kings Horses,The Firm,"['novelty']",1W9DHhVwvAjXxuBKIegw0L,198466,FALSE,24
+911,All The Love I've Got,Marv Johnson,"['motown', 'rhythm and blues']",79Ach1uD8Byx0FmwjwhU6i,153533,FALSE,3
+912,All The Man That I Need,Whitney Houston,"['dance pop', 'pop', 'r&b']",07M76e7IXxYdnC1BBiJxEX,251426,FALSE,55
+913,All The Places (I Will Kiss You),Aaron Hall,"['new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",5zJAnQ1NFfks3SRbIRLVSM,240133,FALSE,35
+914,All The Pretty Girls,Kenny Chesney,"['contemporary country', 'country', 'country road']",66pxmg3Jhjm09tHoWR1wVR,212893,FALSE,68
+915,All The Right Moves,OneRepublic,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rock']",5XRHGXut00SrJUFmcn2lQF,238000,FALSE,65
+916,All The Small Things,Blink-182,"['pop punk', 'punk', 'socal pop punk']",2m1hi0nfMR9vdGC8UcrnwU,167066,FALSE,80
+917,All The Stars,Kendrick Lamar & SZA,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",3GCdLUSnKSMJhs4Tj6CV3s,232186,TRUE,80
+918,All The Things She Said,Simple Minds,"['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']",24E70eoxQmhQBvoBUWRLtp,255853,FALSE,51
+919,All The Things She Said,t.A.T.u.,"['dance pop', 'girl group']",4bJygwUKrRgq1stlNXcgMg,214440,TRUE,69
+920,All The Time In The World,Dr. Hook,"['bubblegum pop', 'classic uk pop', 'country rock', 'folk rock', 'mellow gold', 'soft rock']",6oQvfVYa0XTuYlvgirfuey,155573,FALSE,27
+921,All The Way Home,Tamar Braxton,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",6rvKqjSuVP02HzGiV4G4iq,262226,FALSE,53
+922,All The Way Turnt Up,Roscoe Dash Featuring Soulja Boy Tell'em,"['atl hip hop', 'pop rap', 'southern hip hop', 'trap']",4YAtIop3U0HsJ7jE94BCmX,293720,FALSE,52
+923,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared","['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'trap']",2AYTGaclgKXACh13nJRVcV,284830,TRUE,70
+924,All The Way,Calloway,"['big band', 'jazz blues', 'swing']",2qx8wHW2Npc2wD1ONfR8Al,409666,FALSE,1
+925,All The Young Dudes,Mott The Hoople,"['album rock', 'art rock', 'blues rock', 'classic rock', 'classic uk pop', 'folk rock', 'glam rock', 'hard rock', 'power pop', 'protopunk', 'psychedelic rock', 'pub rock', 'rock', 'roots rock']",0WNGPpmWqzPnk0psUhJ3SX,211066,FALSE,63
+926,All These Things That I've Done,The Killers,"['modern rock', 'permanent wave', 'rock']",0kYUrLVQOfx21xuXu7OGrT,301573,FALSE,67
+927,All These Things,The Uniques,"['rock steady']",26GpmXvGfnsvBkLu0ijA5v,283986,FALSE,11
+928,All Things Are Possible,Dan Peek,"['deep soft rock']",0DPrXoh3JVwLBHingsiqBt,178225,FALSE,6
+929,All Things Considered,Yankee Grey,"[]",6UFpbLu6DpxTZzCHlb1A1j,159666,FALSE,36
+930,All This Love,Debarge,"['disco', 'funk', 'motown', 'new jack swing', 'post-disco', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",6ABtlkvl08XQo6Xu24FJaf,352586,FALSE,52
+931,All This Time,Sting,"['permanent wave', 'soft rock']",2cu8WtQZdxGe3lbetlzeNe,294333,FALSE,50
+932,All This Time,Tiffany,"['new wave pop', 'soft rock']",5jzDnEoTtwzvJfvVx52rDC,261906,FALSE,54
+933,All Those Lies,Glenn Frey,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'new wave pop', 'soft rock']",1tYJ85q4pEj4ZNIokuu1pR,283733,FALSE,16
+934,All Those Years Ago,George Harrison,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock']",32fKHW6Eac4yBXn9WY7Aic,227320,FALSE,54
+935,All Through The Night,Cyndi Lauper,"['dance pop', 'dance rock', 'europop', 'mellow gold', 'new wave pop', 'permanent wave', 'pop', 'pop rock', 'soft rock']",2CIDqYfIYfl9vx02wIyCG9,272840,FALSE,58
+936,All Through The Night,Tone-Loc,"['hip house', 'rap']",5XlgIjaIwqD5q5dVjdVo9V,295066,TRUE,14
+937,All Time High,Rita Coolidge,"['adult standards', 'bubblegum pop', 'classic uk pop', 'country rock', 'mellow gold', 'native american', 'soft rock']",0e6jrQ880TI8IjAexAmtb6,185893,FALSE,36
+938,All Time Low,Jon Bellion,"['pop rap']",0SuLAslEMFZAXf0SwY7syi,217603,TRUE,74
+939,All To Myself,Dan + Shay,"['contemporary country', 'pop']",08tq1XcHwVt5PHXUo87i0D,169920,FALSE,73
+940,All To Myself,Dan + Shay,"['contemporary country', 'pop']",08tq1XcHwVt5PHXUo87i0D,169920,FALSE,74
+941,All Too Well,Taylor Swift,"['pop', 'post-teen pop']",1q3RiD1tIWUpGsNFADMlvl,327893,FALSE,66
+942,All Touch,Rough Trade,"['classic canadian rock']",2weRgumdjR4weGfvmjS1v3,212666,FALSE,27
+943,All True Man,Alexander O'Neal,"['disco', 'funk', 'minneapolis sound', 'new jack swing', 'post-disco', 'quiet storm', 'soul', 'urban contemporary']",6nhCjIwKCpZCol6O4ciUTu,304426,FALSE,34
+944,All We Know,The Chainsmokers Featuring Phoebe Ryan,"['electropop', 'pop', 'tropical house']",2rizacJSyD9S1IQUxUxnsK,194080,FALSE,72
+945,All Woman,Lisa Stansfield,"['british soul', 'dance pop', 'disco', 'new wave pop', 'soft rock']",4ySKy336eck2JSTo52ssnj,317373,FALSE,33
+946,All You Get From Love Is A Love Song,Carpenters,"['adult standards', 'brill building pop', 'mellow gold', 'soft rock']",0iscir8JzbagvY3p3uQyqf,226533,FALSE,44
+947,All You Need Is Love,The Beatles,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']",68BTFws92cRztMS1oQ7Ewj,230386,FALSE,69
+948,All You Wanted,Michelle Branch,"['candy pop', 'dance pop', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",0kr6d8wHDQPlzuET33NVn6,217680,FALSE,60
+949,All You Zombies,Hooters,"['album rock', 'mellow gold', 'philly indie', 'soft rock']",0jvrac0ac39rXsPgG2MSZ3,357169,FALSE,51
+950,All You've Got,RTZ,"[]",3WPPoxtp863Y3NdyjuT5Vj,244266,FALSE,11
+951,All Your Fault,Big Sean Featuring Kanye West,"['detroit hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",30CZcZ0NpTXjVJJa5X5nwf,224386,TRUE,54
+952,All Your Life,The Band Perry,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",2khs94jHAVzUm3Pu4mAMmv,231933,FALSE,47
+953,Allentown,Billy Joel,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",59xhCcRskqyMtKzdvLZDfV,230160,FALSE,53
+954,Allergic,Post Malone,"['dfw rap', 'melodic rap', 'rap']",1YscJ7yVTlFxW3eF6pv5ba,156893,TRUE,78
+955,Allergies,Paul Simon,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",6N9HB9cU7Vkjhy6L45RTNF,279080,FALSE,25
+956,Allies,Heart,"['folk-pop', 'indie folk', 'indie pop', 'neo mellow', 'new americana', 'seattle indie', 'stomp and holler']",3PlH7VdGsXd225ciH0ZWOg,281426,FALSE,29
+957,Alligator Bogaloo,Lou Donaldson,"['bebop', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz funk', 'jazz saxophone', 'soul jazz']",2Wq889rsIlEG0l2ea9pE9J,417000,FALSE,44
+958,All,James Darren,"['adult standards']",5FghKDW0T6ARG4U3Ef4x7N,258399,FALSE,23
+959,Ally Ally Oxen Free,The Kingston Trio,"['american folk revival', 'bubblegum pop', 'folk', 'folk rock', 'traditional folk']",1Uy1yJyKugigHiP4omXQbZ,126266,FALSE,13
+960,Almost Doesn't Count,Brandy,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop', 'pop rap', 'r&b', 'urban contemporary']",5ZCv9I8mgChcYkSrLuLSTc,218466,FALSE,50
+961,Almost Grown,Chuck Berry,"['blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",6Kl1mOpVOIg17MQmcjeUO5,141960,FALSE,44
+962,Almost Hear You Sigh,The Rolling Stones,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",2r41JRUZ5Cjcx98ARVI0vo,277466,FALSE,44
+963,Almost Home,Craig Morgan,"['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",6FW9MTGMjR5A6q2o7PLuuz,289000,FALSE,62
+964,Almost Home,Mary Chapin Carpenter,"['country', 'country rock', 'folk', 'folk rock', 'lilith', 'mellow gold']",2b3N8Hr0VqxfcOyjSIGUHk,277066,FALSE,23
+965,Almost Is Never Enough,Ariana Grande & Nathan Sykes,"['dance pop', 'pop', 'post-teen pop']",63bo7NDoWdMFXufhsYOxwG,327773,FALSE,63
+966,Almost Like Being In Love,Michael Johnson,"['adult standards', 'soft rock']",44fWBsWA0NalKPjZUVaKBY,210400,FALSE,28
+967,Almost Like Praying,Lin-Manuel Miranda Featuring Artists For Puerto Rico,"['hollywood', 'show tunes']",3dskm5fAe8OkBtM9E0VVWx,200457,FALSE,49
+968,Almost Maybes,Jordan Davis,"['contemporary country']",14JFKtBSqefxfMiKhq6JT8,179152,FALSE,76
+969,Almost Over You,Sheena Easton,"['adult standards', 'mellow gold', 'minneapolis sound', 'new romantic', 'new wave pop', 'soft rock']",5mKqa89zAVKXMRY92haT6p,221493,FALSE,50
+970,Almost Persuaded No. 2,Ben Colder,"[]",3gwu6u6Zc5V9Y7TNqtbhLd,199066,FALSE,4
+971,Almost Persuaded,David Houston,"['nashville sound']",2Krnm3qWdy4VG5vTkT0cDn,176360,FALSE,45
+972,Almost Persuaded,Etta James,"['adult standards', 'jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",5nPq2L48Z8ZaBcC0mfDodm,201333,FALSE,23
+973,Almost Saturday Night,Dave Edmunds,"['british blues', 'classic uk pop', 'power pop', 'pub rock', 'rock-and-roll', 'rockabilly', 'roots rock']",4SvhBXFbHNi4erHvH3jwBZ,133266,FALSE,28
+974,Almost Saturday Night,John Fogerty,"['blues rock', 'classic rock', 'country rock', 'heartland rock', 'mellow gold', 'rock', 'roots rock']",6Lclv0b1chTjBqHiwLYqw0,197973,FALSE,29
+975,Almost Slipped,Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",1bx4Jw8A7GQtImIQGccI6D,246792,TRUE,57
+976,Almost There,Andy Williams,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold']",1lwDZyD1jUdsrFxb8vcZGm,177466,FALSE,39
+977,Almost,Bowling For Soup,"['comic', 'pop punk', 'post-grunge', 'texas pop punk']",6TclVCUxDQm9s3Bey6Ao8H,206160,FALSE,60
+978,Alone Again (Naturally),Gilbert O'Sullivan,"['adult standards', 'bubblegum pop', 'classic uk pop', 'folk rock', 'mellow gold', 'soft rock']",6vuEG9sZtC4W2zT64f7zLF,217728,FALSE,54
+979,Alone Again Or,Love,"['adult standards', 'brill building pop', 'motown']",1XuccRABkfUVB4FjSVhjL1,197274,FALSE,62
+980,Alone Again,Dokken,"['album rock', 'glam metal', 'hard rock', 'metal', 'rock']",1j06ieEC2BOCM0fTmYhn2l,262200,FALSE,58
+981,Alone Again,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",6b5P51m8xx2XA6U7sdNZ5E,250053,TRUE,68
+982,Alone At Last,Jackie Wilson,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'motown', 'quiet storm', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",5QZyGPDlIyk75zl8sOOXbh,184626,FALSE,13
+983,Alone Together,Fall Out Boy,"['emo', 'modern rock', 'pop punk']",5MsZIaCYY6Tsdph0LiB0hE,203413,FALSE,61
+984,Alone With You,Faron Young,"['classic country pop', 'honky tonk', 'rockabilly', 'traditional country']",1sgU6LtIDuTT2bxqdmSbh4,117400,FALSE,24
+985,Alone With You,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",2Xdatbm43IXEVi0wmKeJve,210973,FALSE,53
+986,Alone With You,Tevin Campbell,"['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",1qlsnDtzryr3yLuocJ00PY,307826,FALSE,47
+987,Alone,Bee Gees,"['adult standards', 'disco', 'mellow gold', 'soft rock']",7GsoUeI9DtaTSjJHenyCNP,290066,FALSE,57
+988,Alone,Glee Cast Featuring Kristin Chenoweth,"['glee club', 'hollywood', 'post-teen pop']",63dHVDt4TXudnl2K1eziJT,151986,FALSE,43
+989,Alone,Halsey Featuring Big Sean & Stefflon Don,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",2Te14aSrBgFj1CE2sBBVMX,205660,FALSE,64
+990,Alone,Heart,"['folk-pop', 'indie folk', 'indie pop', 'neo mellow', 'new americana', 'seattle indie', 'stomp and holler']",54b8qPFqYqIndfdxiLApea,218733,FALSE,74
+991,Alone,Lasgo,"['belgian dance', 'belgian pop', 'eurodance', 'europop']",6hVdYM1RKjPIYv17KJ6Cll,241040,FALSE,48
+992,Alone,Marshmello,"['brostep', 'progressive electro house']",3MEYFivt6bilQ9q9mFWZ4g,273802,FALSE,79
+993,Alone,The 4 Seasons,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'motown', 'northern soul', 'rock-and-roll']",0BsmelqdNWE1KBxNL5NIYF,173800,FALSE,30
+994,Along Came Jones,Ray Stevens,"['bubblegum pop', 'comic', 'country rock', 'novelty']",5zTT1Tp6nJyflksiZsM7xs,227533,FALSE,23
+995,Along Came Jones,The Coasters,"['brill building pop', 'bubblegum pop', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",4RPiAR1m2eglvjWMHHFu1Y,178053,FALSE,32
+996,Along Comes A Woman,Chicago,"['adult standards', 'album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",6DW3KgSRAJ01nKUpfccktX,255093,FALSE,41
+997,Along Comes Mary,The Association,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'merseybeat', 'psychedelic rock', 'soft rock', 'sunshine pop']",3Zje70mXjYyMuzge8j24L9,171000,FALSE,39
+998,Alphabet St.,Prince,"['bachata', 'latin', 'latin pop', 'reggaeton', 'tropical']",25qIHdF9njPTW737AeEQPl,339933,TRUE,38
+999,Already Callin' You Mine,Parmalee,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock', 'modern uplift']",3jSyE8r8vgg8fmwojoMzql,184386,FALSE,52
+1000,Already Gone,Eagles,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",0CKxrnF9KplS21LTjkkqsW,255345,FALSE,56
+1001,Already Gone,Kelly Clarkson,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'talent show']",7ceIquYtiTYlgSSm7PqUf9,281560,FALSE,58
+1002,Already Gone,Sugarland,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",6Gd842MwS4ySeBdQTU09sh,275866,FALSE,44
+1003,Already Missing You,"Gerald Levert & Eddie Levert, Sr.","['funk', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",3exi6r6vHLOhNkYcY1p6Sw,308560,FALSE,31
+1004,"Alright Okay You Win",Peggy Lee,"['adult standards', 'brill building pop', 'lounge', 'soul', 'swing', 'torch song', 'vocal jazz']",56J9j3jfjzRHk8HMfBXKJX,175626,FALSE,31
+1005,Alright,Darius Rucker,"['contemporary country', 'country', 'country road', 'modern country rock']",5JlH51YDYsGj2dyEJKKjcN,231920,FALSE,68
+1006,Alright,Jamiroquai,"['acid jazz', 'dance pop']",2WkHXAVVMgRnBmQ3HYAVla,263920,FALSE,53
+1007,Alright,Janet Jackson,"['dance pop', 'hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",63W4sfeRTTiNKFLAzUJHFe,386533,FALSE,39
+1008,Alright,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",3iVcZ5G6tvkXZkZKlMpIUs,219333,TRUE,74
+1009,Alright,Kris Kross Featuring Supercat,"['dutch house', 'dutch pop', 'tropical house']",3uGjLZ5abCyCfYXBVfpf8X,243333,FALSE,37
+1010,Also Sprach Zarathustra (2001),Deodato,"['bossa nova jazz', 'brazilian jazz', 'jazz funk', 'jazz fusion', 'soul jazz']",6ywm0ilJ9ItgXRDg0yrJP1,663133,FALSE,12
+1011,Alvin Stone (The Birth & Death Of A Gangster),Fantastic Four,"['classic soul', 'motown']",5NzPBOUmOGAlRV8HQWvIgi,408160,FALSE,6
+1012,Alvin's Harmonica,David Seville And The Chipmunks,"[]",6EanPjcrgRrLjs23SPQAaa,162040,FALSE,12
+1013,Always And Forever,Heatwave,"['brit funk', 'classic soul', 'disco', 'funk', 'jazz funk', 'motown', 'post-disco', 'quiet storm', 'soul', 'urban contemporary']",0fKDnkXdfJwk0DEW9W83VY,287266,FALSE,55
+1014,Always And Forever,Luther Vandross,"['funk', 'motown', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",3xvcFlh6hHqxyiAFkqpsjZ,292733,FALSE,63
+1015,Always And Forever,Whistle,"[]",4c8YJShoSaDCIOMgp36BM6,284066,FALSE,15
+1016,Always Be My Baby,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",2aBxt229cbLDOvtL7Xbb9x,258133,FALSE,73
+1017,Always Do,The Kid LAROI,"['australian hip hop']",3QCU8BT0zDS9LPVfEhRFEE,151704,TRUE,77
+1018,Always Forever,Bryson Tiller,"['kentucky hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap']",1LV5cAo02H8h5YlZNcjULM,170053,FALSE,59
+1019,Always In My Heart,Los Indios Tabajaras,"['easy listening', 'romantico']",7uOlL4oeW3SrMugsYr8xZu,149960,FALSE,37
+1020,Always In My Heart,Tevin Campbell,"['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",2CD8UvBi01dwnriCM8TivL,338732,FALSE,47
+1021,Always It's You,The Everly Brothers,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge', 'mellow gold', 'rock-and-roll', 'rockabilly', 'sunshine pop']",05x9nkkybDpaC9StimjFHA,150426,FALSE,27
+1022,Always On My Mind,Pet Shop Boys,"['art pop', 'dance pop', 'dance rock', 'europop', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",2SWn864dJI5RNyrp3F4Kp1,237653,FALSE,54
+1023,Always On My Mind,SWV,"['dance pop', 'girl group', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop', 'quiet storm', 'r&b', 'urban contemporary']",4zAxfkmJqsaHqFu1YPMS5a,317360,FALSE,55
+1024,Always On My Mind,Willie Nelson,"['classic country pop', 'country', 'nashville sound', 'outlaw country', 'singer-songwriter', 'texas country']",2xYQTU2bbg6WVAmpY1eae4,212666,FALSE,64
+1025,Always On Time,Ja Rule Featuring Ashanti,"['dance pop', 'east coast hip hop', 'gangster rap', 'hip hop', 'hip pop', 'pop rap', 'queens hip hop', 'rap', 'urban contemporary']",4hrae8atte6cRlSC9a7VCO,245133,TRUE,73
+1026,Always On Your Side,Sheryl Crow & Sting,"['folk', 'lilith', 'mellow gold', 'neo mellow', 'new wave pop', 'permanent wave', 'pop rock', 'rock']",7FqDLD2f3VFdCYPCFpNvYq,251373,FALSE,50
+1027,Always Remember Us This Way,Lady Gaga,"['dance pop', 'pop']",2rbDhOo9Fh61Bbu23T2qCk,210200,FALSE,82
+1028,Always Something There To Remind Me,Naked Eyes,"['dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",3ZXcjz3A5vNsR5dA1e6ITl,219373,FALSE,57
+1029,Always Something There To Remind Me,R.B. Greaves,"[]",1WFZTMBQabuD1Thl7OPBlk,190280,FALSE,16

@@ -42,6 +42,17 @@ You must write a report about your project. Answer the following questions direc
   * Here is how you include an image in your README.md file: ![example graph](graphs/example-graph.png)
 * Compare and contrast the graphs and explain the differences based on what you know about the structure and behavior of the trees. Justify the time complexity of searching the trees based on the results.
 
+**Report**
+* For my custom class, I have a csv file for the Billboard top charts, so each object for that class is a song on the chart. Each song has eight variables associated with it.
+* The depths of the random ordered integers are most likely going to be lower values than the depths for the ordered integers because when you enter in numbers in a specific order, they will only stay to one side of the tree forever, but if the numbers are random, the numbers are most likely going to fill in other spots on the tree. The ordered integers will always have a depth of one more than the last one that was entered in, unless the tree is an AVL tree.
+* The depths of the custom data type tree for the binary search tree is the same as the ordered integer binary search tree because the songs were entered in order by their index, which is sequential. However, for the AVL tree, the depth never reached above 9 because everytime one song was added that made the tree non-AVL, the tree would restructure itself automatically. The splay tree started out with a depth of 1028 because that's how many values were in the tree originally, but it was basically cut in half every time I searched for a node until it reached 9, and then the nodes fluctuated between 1 and 9. 
+* The second depth file for the splay tree makes sense because when one node is found in the tree it is moved to the root of the tree, so the first time it is found it will have whatever depth it is in the tree, and then the next 4 times the node is searched for, it has depth zero because it is now the root.
+
+**Graphs**:
+  ![example graph](graphs/BinarySearchTree.png)
+  ![example graph](graphs/AVLTree.png)
+  ![example graph](graphs/SplayTree.png)
+
 **Note: Any code that was not authored by yourself or the instructor must be cited in your report. This includes the use of concepts not taught in lecture.**
 
 ## Submit
